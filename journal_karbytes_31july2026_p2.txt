@@ -1,0 +1,77 @@
+/**
+ * file: journal_karbytes_31july2026_p2.txt
+ * type: plain-text
+ * date: 01_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This file is a continuation of the file which is (or is expected to eventually be) located at the following Uniform Resource Locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/journal_karbytes_31july2026_p1.txt
+
+* * *
+
+The following preformatted text content is an excerpt from a (plain-text) draft of a (not yet canon KARBYTES) web page named karbytes_social_media_posts_koep72.
+
+Note that, within the context of this file (i.e. journal_karbytes_31july2026_p0.txt),
+
+[UNDEFINED_DAY] is a placeholder for exactly one arbitrary day between 30_JULY_2026 and 31_DECEMBER_2026 and
+
+[UNDEFINED_TIME_OF_DAY] is a placeholder for exactly one arbitrary time of day between 12:00AM and 11:59PM.
+
+* * *
+
+[preformatted_text]
+
+[...]
+
+On [UNDEFINED_DAY] at approximately [UNDEFINED_TIME_OF_DAY] Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_a/
+
+* * *
+
+On [UNDEFINED_DAY] at approximately [UNDEFINED_TIME_OF_DAY] Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_b/
+
+* * *
+
+On [UNDEFINED_DAY] at approximately [UNDEFINED_TIME_OF_DAY] Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_c/
+
+* * *
+
+On [UNDEFINED_DAY] at approximately [UNDEFINED_TIME_OF_DAY] Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_d/
+
+[...]
+
+[end preformatted_text]
+
+* * *
+
+Note that the (default) "featured image" of the web page named chatgpt_karbytes_02august2026_a is the following image (which is what is used when there are no embedded images on the respective web page nor any designated "featured image" for that web page): 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG/main/yellow_galaxy_drawing_icon_2020.png
+
+* * *
+
+Note that the featured image of the web page named chatgpt_karbytes_02august2026_b is the following image: 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_67/main/being_in_the_big_green_thing_10june2026_p1.jpg
+
+* * *
+
+Note that the featured image of the web page named chatgpt_karbytes_02august2026_c is the following image: 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p4.jpg
+
+* * *
+
+Note that the featured image of the web page named chatgpt_karbytes_02august2026_d is the following image: 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p18.jpg
