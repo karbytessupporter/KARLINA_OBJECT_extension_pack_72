@@ -1,0 +1,37 @@
+/**
+ * file: journal_karbytes_05august2026_p0.txt
+ * type: plain-text
+ * date: 05_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+node_(-6): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_27june2026/
+
+node_(-5): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01july2026/
+
+node_(-4): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05july2026/
+
+node_(-3): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07july2026/
+
+node_(-2): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13july2026/
+
+node_(-1): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16july2026/
+
+node_(0): https://karbytesforlifeblog.wordpress.com/journal_karbytes_04july2026/
+
+node_(1): https://karbytesforlifeblog.wordpress.com/journal_karbytes_21june2026/
+
+node_(2): https://karbytesforlifeblog.wordpress.com/journal_karbytes_05july2026/
+
+node_(3): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_18july2026/
+
+node_(4): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/journal_karbytes_07july2026_p0.txt
+
+node_(5): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_j/
+
+node_(6): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_l/
+
+node_(7): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01august2026_k/
+
+node_(8): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_e/
