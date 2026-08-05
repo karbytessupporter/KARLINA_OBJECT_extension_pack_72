@@ -24,25 +24,25 @@ Well, it is 05_AUGUST_2026, a little after 6 a.m. Pacific Standard Time. I am ma
 
 This was in my pickup order. They decided to call this a plant-based sandwich. They threw this bag in there with nothing in it.
 
-It seems like that's more than just an accident [and] that was deliberate because it seems like it's too obvious of a mistake for someone to make, especially this early in the morning when there isn't that much customers coming in. So yeah, I kind of feel like it's a "hate crime" against me in particular. I like living in Castro Valley and I want to like it.
+It seems like that’s more than just an accident [and] that was deliberate because it seems like it’s too obvious of a mistake for someone to make, especially this early in the morning when there isn’t that much customers coming in. So yeah, I kind of feel like it’s a “hate crime” against me in particular. I like living in Castro Valley and I want to like it.
 
-I want to get along with people here. So if this is people trying to make me go away or to ruin my day or whatever it is, well, I don't know why people do it. Like I said before, I'm just trying to move on with my life and make good things happen and not 24 hours goes by before some drama happens where it looks like someone's deliberately trying to mess up my day.
+I want to get along with people here. So if this is people trying to make me go away or to ruin my day or whatever it is, well, I don’t know why people do it. Like I said before, I’m just trying to move on with my life and make good things happen and not 24 hours goes by before some drama happens where it looks like someone’s deliberately trying to mess up my day.
 
-So I don't really get a full 24 hours of just nice things because those people don't have nice things. I don't know. I'm not trying to figure out what's going on in their head like I said before.
+So I don’t really get a full 24 hours of just nice things because those people don’t have nice things. I don’t know. I’m not trying to figure out what’s going on in their head like I said before.
 
-I'll just pretend that I think it's an accident, but to KARBYTES or to whoever my audience is watching KARBYTES, I'll let you know [that] I don't think that that was an accident. I think that was deliberate and people are just trying to test me to see what I'll do.
+I’ll just pretend that I think it’s an accident, but to KARBYTES or to whoever my audience is watching KARBYTES, I’ll let you know [that] I don’t think that that was an accident. I think that was deliberate and people are just trying to test me to see what I’ll do.
 
-They kind of treat me like my time is expendable; my money is expendable. It's like they think they need to inconvenience me because I don't get inconvenienced enough. That's their idea of trying to establish justice.
+They kind of treat me like my time is expendable; my money is expendable. It’s like they think they need to inconvenience me because I don’t get inconvenienced enough. That’s their idea of trying to establish justice.
 
-That's what I believe. I believe that they think that I deserve to get more adversity in my life. I already have enough adversity.
+That’s what I believe. I believe that they think that I deserve to get more adversity in my life. I already have enough adversity.
 
 I do have problems. I do suffer physical ailments [that] are painful.
 
-I suffer things that I don't really talk about because I try to focus on content that I think is enjoyable. I only really want to bring up negative stuff if it really seems like it's a big enough deal to do so. This may or may not be one of those times, so I don't know if I'm going to actually turn this into KARBYTES content because I had other things going on this morning.
+I suffer things that I don’t really talk about because I try to focus on content that I think is enjoyable. I only really want to bring up negative stuff if it really seems like it’s a big enough deal to do so. This may or may not be one of those times, so I don’t know if I’m going to actually turn this into KARBYTES content because I had other things going on this morning.
 
-I was about to enjoy my day and say it was a nice day until I opened up the bag and saw that I got like ten bucks stolen from me basically and it felt like a "hate crime" on top of it. So I don't know if people are against me for the way I express myself or what. I'm not gonna try to figure it out because it's many different possible things it could be.
+I was about to enjoy my day and say it was a nice day until I opened up the bag and saw that I got like ten bucks stolen from me basically and it felt like a “hate crime” on top of it. So I don’t know if people are against me for the way I express myself or what. I’m not gonna try to figure it out because it’s many different possible things it could be.
 
-I'm just gonna try to be a gentleman about it and just say, "Oh, I noticed that when I opened the bag that there was nothing inside of it, so I was wondering if I can actually, you know, get what I came for; what I paid for."
+I’m just gonna try to be a gentleman about it and just say, “Oh, I noticed that when I opened the bag that there was nothing inside of it, so I was wondering if I can actually, you know, get what I came for; what I paid for.”
 
 * * *
 
@@ -54,89 +54,89 @@ video_1_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT
 
 video_1_transcription:
 
-All right, today is August 5th, 2026, and I've been able to do most of what I think is the major canon KARBYTES update for today after having been on hiatus for approximately three or four days. So since the first of August, I've been in a hiatus bubble, which I call the Fourth Dark Hiatus Bubble of the macro Hiatus of the Summer of 2026 [i.e. the First Official Major KARBYTES Hiatus (Summer 2026)]. I was thinking I'll probably close up the current repository, which is KARLINA_OBJECT_extension_pack_72, or I might keep it going.
+All right, today is August 5th, 2026, and I’ve been able to do most of what I think is the major canon KARBYTES update for today after having been on hiatus for approximately three or four days. So since the first of August, I’ve been in a hiatus bubble, which I call the Fourth Dark Hiatus Bubble of the macro Hiatus of the Summer of 2026 [i.e. the First Official Major KARBYTES Hiatus (Summer 2026)]. I was thinking I’ll probably close up the current repository, which is KARLINA_OBJECT_extension_pack_72, or I might keep it going.
 
-I decided I'll probably just keep it going for a little longer, because I think that's usually when some things sneak in. So I noticed that just when I think I'm about to close the repository, that's usually when those sneaky bits start wanting to come in. And rather than have to make a whole other micro-directory for those sneaky bits, I might as well just try to include them in the current micro-directory and save myself extra time and labor.
+I decided I’ll probably just keep it going for a little longer, because I think that’s usually when some things sneak in. So I noticed that just when I think I’m about to close the repository, that’s usually when those sneaky bits start wanting to come in. And rather than have to make a whole other micro-directory for those sneaky bits, I might as well just try to include them in the current micro-directory and save myself extra time and labor.
 
-Well anyway, I wanted to make this video because I've been having some weird situations living in Castro Valley just trying to go about my business, especially when it comes to getting food for myself. (1:52) Like, I went to Safeway the other day and noticed that for some reason, only I was not "allowed" to use the self-checkout. Because when I was at the self-checkout, it basically said, wait for an employee to approve of your purchase.
+Well anyway, I wanted to make this video because I’ve been having some weird situations living in Castro Valley just trying to go about my business, especially when it comes to getting food for myself. Like, I went to Safeway the other day and noticed that for some reason, only I was not “allowed” to use the self-checkout. Because when I was at the self-checkout, it basically said, wait for an employee to approve of your purchase.
 
-So I feel like at that store people don't like me. There's a reason why, honestly. There were some times in that particular store I wasn't on my best behavior.
+So I feel like at that store people don’t like me. There’s a reason why, honestly. There were some times in that particular store I wasn’t on my best behavior.
 
-I was kind of annoyed at people there. And there were some times when I did actually try to steal food from that store back when I was really poor. 
+I was kind of annoyed at people there. And there were some times when I did actually try to steal food from that store back when I was really poor.
 
-That could probably be what this is all stemming from, but I think it's more because they just don't like my attitude.
+That could probably be what this is all stemming from, but I think it’s more because they just don’t like my attitude.
 
 Or whatever it is. Because I did say some rude things back when I was a lot more stressed out and I felt like I was a fish out of water compared to everyone else in the area. And I was being made to feel like I was treated like a lower caste than everyone else.
 
-So that's basically just how I was feeling inside. And I should have been more composed than how I was acting. That was like a few years ago.
+So that’s basically just how I was feeling inside. And I should have been more composed than how I was acting. That was like a few years ago.
 
-I feel like the kind of people I'm around like to hold grudges. And it seems like it doesn't really matter how much time passes. It's like once you do something bad, they never forgive you again.
+I feel like the kind of people I’m around like to hold grudges. And it seems like it doesn’t really matter how much time passes. It’s like once you do something bad, they never forgive you again.
 
-They decide that you deserve to just suffer forever. So I get the sense that people just don't want me to thrive in Castor Valley. They're trying to drive me away.
+They decide that you deserve to just suffer forever. So I get the sense that people just don’t want me to thrive in Castro Valley. They’re trying to drive me away.
 
-Well, it's working if that's their goal. Because I'm thinking that I have to go to other places to feel like I'm getting treated with respect. So if I want to actually not get stolen from and treated rudely and singled out to be made to feel like I'm not as welcome as everyone else, I'll go somewhere else.
+Well, it’s working if that’s their goal. Because I’m thinking that I have to go to other places to feel like I’m getting treated with respect. So if I want to actually not get stolen from and treated rudely and singled out to be made to feel like I’m not as welcome as everyone else, I’ll go somewhere else.
 
-Because sometimes I feel like there's "hate crimes" committed against me for whatever reason. I'd rather not go into too much detail and [not] focus on being a victim. Because I think that's kind of their agenda [i.e. to coerce me into playing victim].
+Because sometimes I feel like there’s “hate crimes” committed against me for whatever reason. I’d rather not go into too much detail and [not] focus on being a victim. Because I think that’s kind of their agenda [i.e. to coerce me into playing victim].
 
-It seems like whenever I'm just going about my business and doing well and actually thinking about how well I'm doing and how grateful I am that I'm doing well, that's all of a sudden when they seem to strike the most. So there's a pattern here. It seems that they really don't like it when I'm just happy.
+It seems like whenever I’m just going about my business and doing well and actually thinking about how well I’m doing and how grateful I am that I’m doing well, that’s all of a sudden when they seem to strike the most. So there’s a pattern here. It seems that they really don’t like it when I’m just happy.
 
-And they like it when I'm miserable and complaining and acting like a victim. So I don't know what that's about really. I do think it might have something to do with maybe small town dynamics.
+And they like it when I’m miserable and complaining and acting like a victim. So I don’t know what that’s about really. I do think it might have something to do with maybe small town dynamics.
 
-The kind of unprofessionalism I see in this town I don't think would fly in other places that I call more affluent. So when I talk about I'm going to go somewhere else to have a better time that's more affluent, I don't mean I'm just going to go somewhere where there's people with more money. There is kind of a correlation between people having more money and I think generally being more polite and more educated.
+The kind of unprofessionalism I see in this town I don’t think would fly in other places that I call more affluent. So when I talk about I’m going to go somewhere else to have a better time that’s more affluent, I don’t mean I’m just going to go somewhere where there’s people with more money. There is kind of a correlation between people having more money and I think generally being more polite and more educated.
 
-But the main reason why I'd go to the more affluent areas is because I think people just generally have better manners and are not as rude. When people are rude, it does just kind of throw a wrench in my day. It makes me feel awkward.
+But the main reason why I’d go to the more affluent areas is because I think people just generally have better manners and are not as rude. When people are rude, it does just kind of throw a wrench in my day. It makes me feel awkward.
 
-I wish I could just move on and not let it bother me, but it does bother me. It makes me kind of feel like I'm on guard for the next time people do that. And I think that's a really shitty way to have to live.
+I wish I could just move on and not let it bother me, but it does bother me. It makes me kind of feel like I’m on guard for the next time people do that. And I think that’s a really shitty way to have to live.
 
-And it's beneath me, quite frankly, to have to live like that. I feel like I should be around people that aren't that immature. So what I'm going to do is try to be mature about it and be better than how I used to be in the past, even if other people don't want to encourage that or acknowledge that.
+And it’s beneath me, quite frankly, to have to live like that. I feel like I should be around people that aren’t that immature. So what I’m going to do is try to be mature about it and be better than how I used to be in the past, even if other people don’t want to encourage that or acknowledge that.
 
-I'm used to not getting recognition for the good things I do and people generally only want to focus on what they think is wrong with me. That's just part of their immaturity and the mob mentality; the small mindedness. So yeah, it's just inconvenient for me to have to always have to go the extra mile to get things done because it's hard to have to spend extra resources commuting extra lengths and spending more time than everyone else getting things done.
+I’m used to not getting recognition for the good things I do and people generally only want to focus on what they think is wrong with me. That’s just part of their immaturity and the mob mentality; the small mindedness. So yeah, it’s just inconvenient for me to have to always have to go the extra mile to get things done because it’s hard to have to spend extra resources commuting extra lengths and spending more time than everyone else getting things done.
 
-But if that's what I have to do for peace of mind, then I suppose it's worth it if I have the means. But if I don't have the means, then it's kind of like a monopoly. So if I don't have a car and I don't have very much money, then I'm going to have to shop locally, which means I'm going to have to deal with shitty treatment from the locals.
+But if that’s what I have to do for peace of mind, then I suppose it’s worth it if I have the means. But if I don’t have the means, then it’s kind of like a monopoly. So if I don’t have a car and I don’t have very much money, then I’m going to have to shop locally, which means I’m going to have to deal with shitty treatment from the locals.
 
-That's just that. And I was thinking to myself earlier today, when am I going to move out? And I was telling myself, well, probably not for a while because I don't have a job yet and it takes a while to get enough savings and job security to be able to move out, or so it seems. And I'm not trying to rush myself just because other people are putting pressure on me.
+That’s just that. And I was thinking to myself earlier today, when am I going to move out? And I was telling myself, well, probably not for a while because I don’t have a job yet and it takes a while to get enough savings and job security to be able to move out, or so it seems. And I’m not trying to rush myself just because other people are putting pressure on me.
 
-It's not like they're really making it easy for me to transition to another living situation. It's like they'd rather me just be on the street as a homeless person. That's not exactly an improvement in my life situation.
+It’s not like they’re really making it easy for me to transition to another living situation. It’s like they’d rather me just be on the street as a homeless person. That’s not exactly an improvement in my life situation.
 
-So rather than rush to appease small-minded, immature, impatient bigots, I'll just take advantage of the opportunities I have. And I know that's definitely an issue of contention with these people. It seems that they don't like that I have it so nice, and they seem to go out of their way to try to make it not as nice.
+So rather than rush to appease small-minded, immature, impatient bigots, I’ll just take advantage of the opportunities I have. And I know that’s definitely an issue of contention with these people. It seems that they don’t like that I have it so nice, and they seem to go out of their way to try to make it not as nice.
 
-I was thinking of maybe even writing a journal entry, but I decided not to, about something about misery being necessary as payment for existence. So it's kind of related to automation of jobs and outsourcing jobs to robots. Once humans are no longer as efficient at performing those jobs as robots, then it makes sense to outsource those jobs to robots.
+I was thinking of maybe even writing a journal entry, but I decided not to, about something about misery being necessary as payment for existence. So it’s kind of related to automation of jobs and outsourcing jobs to robots. Once humans are no longer as efficient at performing those jobs as robots, then it makes sense to outsource those jobs to robots.
 
-So what are the humans supposed to do to earn their keep? Well, sometimes people think they're supposed to suffer, and that's the real reason why they're supposed to go to work. Not to actually perform a function to society, like be of service to others, but to suffer, just to make sure that people's egos aren't rubbed the wrong way. And that's their service.
+So what are the humans supposed to do to earn their keep? Well, sometimes people think they’re supposed to suffer, and that’s the real reason why they’re supposed to go to work. Not to actually perform a function to society, like be of service to others, but to suffer, just to make sure that people’s egos aren’t rubbed the wrong way. And that’s their service.
 
-So that's what I'm saying is I'm afraid is going on beneath the surface, is people don't want people to be happy. Instead, they want to make sure that no one's jealous, or whoever the important people are, who have overly inflated egos, or think they're the VIPs [i.e. Very Important Persons]. They're the ones that aren't supposed to be made to feel insecure or jealous.
+So that’s what I’m saying is I’m afraid is going on beneath the surface, is people don’t want people to be happy. Instead, they want to make sure that no one’s jealous, or whoever the important people are, who have overly inflated egos, or think they’re the VIPs [i.e. Very Important Persons]. They’re the ones that aren’t supposed to be made to feel insecure or jealous.
 
-So it's to make sure that no one is thriving too much with them around. So we're all being held back for their sake. I don't want to get too carried away with that conspiracy theory.
+So it’s to make sure that no one is thriving too much with them around. So we’re all being held back for their sake. I don’t want to get too carried away with that conspiracy theory.
 
-But really, it is on my mind a lot. So why can't people just live on a universal basic income, and have robots do the majority of the work? And that work can still earn profits for companies, which can still be turned into taxes, which pay for social services. Well, because these immature people think that people need to be supervised and tortured to function properly.
+But really, it is on my mind a lot. So why can’t people just live on a universal basic income, and have robots do the majority of the work? And that work can still earn profits for companies, which can still be turned into taxes, which pay for social services. Well, because these immature people think that people need to be supervised and tortured to function properly.
 
-Otherwise, they'll be too free, and unruly; unpredictable. So maybe it's a way of making the people easier on their egos; to make sure they don't get too much value out of their days. Well, it kind of feels like we're living in the Dark Ages, if that's the case.
+Otherwise, they’ll be too free, and unruly; unpredictable. So maybe it’s a way of making the people easier on their egos; to make sure they don’t get too much value out of their days. Well, it kind of feels like we’re living in the Dark Ages, if that’s the case.
 
-If we have the means to have more free time and more affluence, but we're not allowing ourselves to, what's the reason for that? Small-minded Luddites? I think that's probably what it is. These people, rather than talk about the future of the economy, and the evolution of artificial intelligence, and the expansion of lifespans, they'd rather focus on high school-level antiquated notions of what civilization is supposed to be about, like fitting into a clique. So they just look at me like I'm not doing enough with my life, simply because I'm not as much of a socialite.
+If we have the means to have more free time and more affluence, but we’re not allowing ourselves to, what’s the reason for that? Small-minded Luddites? I think that’s probably what it is. These people, rather than talk about the future of the economy, and the evolution of artificial intelligence, and the expansion of lifespans, they’d rather focus on high school-level antiquated notions of what civilization is supposed to be about, like fitting into a clique. So they just look at me like I’m not doing enough with my life, simply because I’m not as much of a socialite.
 
-And part of the reason why, honestly, is because there's not really much in the way of what I call suitable people that are conveniently available for me to hang out with, and I really don't want to, because I'd rather be doing solitary things. So the only reason why I'd be hanging out with people is because I'm kind of forced to, not because I really want to. And I think these other people just don't understand that, because they've never really done anything on their own.
+And part of the reason why, honestly, is because there’s not really much in the way of what I call suitable people that are conveniently available for me to hang out with, and I really don’t want to, because I’d rather be doing solitary things. So the only reason why I’d be hanging out with people is because I’m kind of forced to, not because I really want to. And I think these other people just don’t understand that, because they’ve never really done anything on their own.
 
-Maybe because they're not wired the same way I am, neurologically, or because they've been educated differently than me, to think that they need someone else to always be there, to validate their existence. Otherwise, their existence is not valid. So they treat me like I'm not valid, and that I should be "on hold" until the right people come into my life, and all of a sudden, [only then] I'm able to finally start moving again.
+Maybe because they’re not wired the same way I am, neurologically, or because they’ve been educated differently than me, to think that they need someone else to always be there, to validate their existence. Otherwise, their existence is not valid. So they treat me like I’m not valid, and that I should be “on hold” until the right people come into my life, and all of a sudden, [only then] I’m able to finally start moving again.
 
-And I think they're mad at me because I'm not falling into that plane, which is implicit, not explicit. What I don't like about these people is they don't really explicitly communicate. They instead just use passive-aggression to communicate, and I'm tired of it.
+And I think they’re mad at me because I’m not falling into that plane, which is implicit, not explicit. What I don’t like about these people is they don’t really explicitly communicate. They instead just use passive-aggression to communicate, and I’m tired of it.
 
-I'm not going to put up with it anymore. I'm not going to go into detail too much, because I'm not trying to be ad hominem. I'm just saying I notice it, and I'm trying to avoid dealing with those people.
+I’m not going to put up with it anymore. I’m not going to go into detail too much, because I’m not trying to be ad hominem. I’m just saying I notice it, and I’m trying to avoid dealing with those people.
 
-But I can only avoid people for so long, because that's been my strategy thus far, just go outside Castro Valley. Go sleep in the streets somewhere. Just avoid, avoid, avoid.
+But I can only avoid people for so long, because that’s been my strategy thus far, just go outside Castro Valley. Go sleep in the streets somewhere. Just avoid, avoid, avoid.
 
-But I can't always just default to running away and hiding. I have to also live. So as soon as I start saying, "Enough! I'm not going to just play hide and go seek for a living," then people get all mad, because I'm not willing to be a little child anymore.
+But I can’t always just default to running away and hiding. I have to also live. So as soon as I start saying, “Enough! I’m not going to just play hide and go seek for a living,” then people get all mad, because I’m not willing to be a little child anymore.
 
-Sometimes I feel like I'm the only adult. Then again, I didn't sleep last night. Maybe I'm just kind of exaggerating things, because I'm a bit sleep deprived.
+Sometimes I feel like I’m the only adult. Then again, I didn’t sleep last night. Maybe I’m just kind of exaggerating things, because I’m a bit sleep deprived.
 
-And honestly, it was a bit stressful to work on this [extensive micro-directories auditing] project, because there's a lot of mistakes I noticed in all these micro-directories. And I realized there's like hundreds of these micro-directories to go through, and it takes a long time to do each micro-directory, and it's very meticulous. And even after going through them and auditing them, there's still mistakes.
+And honestly, it was a bit stressful to work on this [extensive micro-directories auditing] project, because there’s a lot of mistakes I noticed in all these micro-directories. And I realized there’s like hundreds of these micro-directories to go through, and it takes a long time to do each micro-directory, and it’s very meticulous. And even after going through them and auditing them, there’s still mistakes.
 
-So I kind of decided at a certain point, I think that's enough, because I'm getting into legacy territory. It's two plus years old, so it's not the most high quality content. I'd say in KARBYTES, the most high quality content didn't really emerge until probably the summer of 2022, because that's when I started using psilocybin in high doses for the first time in my life.
+So I kind of decided at a certain point, I think that’s enough, because I’m getting into legacy territory. It’s two plus years old, so it’s not the most high quality content. I’d say in KARBYTES, the most high quality content didn’t really emerge until probably the summer of 2022, because that’s when I started using psilocybin in high doses for the first time in my life.
 
-And that's when I felt like my brain opened up, and I gained consciousness. So a whole new layer of my mind kind of emerged around that time, and I think it reflects in the quality of the content in the blog. And it only started to get better with the advent of AI [i.e. Artificial Intelligence], especially recently during the summer, with [ChatGPT] 5.6 Sol.
+And that’s when I felt like my brain opened up, and I gained consciousness. So a whole new layer of my mind kind of emerged around that time, and I think it reflects in the quality of the content in the blog. And it only started to get better with the advent of AI [i.e. Artificial Intelligence], especially recently during the summer, with [ChatGPT] 5.6 Sol.
 
 Now I have this extension of my mind that allows me to get a lot more done. So I consider artificial intelligence to not really be external to me. I consider it to be like a prosthetic.
 
-That could be because I have a panpsychic worldview, where I think that everything is just one big all-encompassing mind. I don't really see why I should have different perspectives than that, because that perspective just seems very holistic, and it makes everything fit. It doesn't seem to make it such that some things don't belong in reality.
+That could be because I have a panpsychic worldview, where I think that everything is just one big all-encompassing mind. I don’t really see why I should have different perspectives than that, because that perspective just seems very holistic, and it makes everything fit. It doesn’t seem to make it such that some things don’t belong in reality.
 
 So to me, that resolves a lot of conflict, because rather than fight against what is, it just allows things to be.
 
@@ -154,32 +154,32 @@ video_2_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT
 
 video_2_transcription:
 
-All right, it's approximately 11.30 p.m. [should have been a.m.] on 05_AUGUST_2026, and I'm making a video recording of the second time I video recorded myself going on a "warm-up walk". This time I'm not wearing any special socks or shoes, partly because the special socks don't actually hold up very well over time, so this is my attempt to try to reduce overall  cost of equipment. And I was talking about how you can see my house from here.
+All right, it’s approximately 11:30 p.m. [should have been a.m.] on 05_AUGUST_2026, and I’m making a video recording of the second time I video recorded myself going on a “warm-up walk”. This time I’m not wearing any special socks or shoes, partly because the special socks don’t actually hold up very well over time, so this is my attempt to try to reduce overall cost of equipment. And I was talking about how you can see my house from here.
 
-There it is. It's that house at the top of the hill. Well, not technically at the top.
+There it is. It’s that house at the top of the hill. Well, not technically at the top.
 
-There's at least one or two other houses up at the top of the hill, but the one that you can actually see, that's where The Burrow is. It has the pole in front of it. And unlike last time I made a recording here, there's actually the flowers that came back.
+There’s at least one or two other houses up at the top of the hill, but the one that you can actually see, that’s where The Burrow is. It has the pole in front of it. And unlike last time I made a recording here, there’s actually the flowers that came back.
 
-I call them the July flowers. So that's good news. I'm surprised there's so many of them, actually.
+I call them the July flowers. So that’s good news. I’m surprised there’s so many of them, actually.
 
-About a month or two ago, or a month ago, there wasn't really any of them except for maybe the stems, but the flowers grew back. That's reassuring. 
+About a month or two ago, or a month ago, there wasn’t really any of them except for maybe the stems, but the flowers grew back. That’s reassuring.
 
 And over there in the distance is Mount Diablo, and if you look really carefully, you can even see Dinosaur Ridge Trail.
 
-And over there, there's Rocky Ridge Radio Tower, but it's probably hard to see from this angle. I'll be heading there later today. After I burn at least one disc of the latest of KARBYTES, which is called karbytes_refinement.
+And over there, there’s Rocky Ridge Radio Tower, but it’s probably hard to see from this angle. I’ll be heading there later today. After I burn at least one disc of the latest of KARBYTES, which is called karbytes_refinement.
 
-But because it's not the complete version of whatever that is, to my knowledge, I'll be appending the current date to that. (2:25) So it'll be karbytes_refinement, square bracket, containing 05_AUGUST_2026 (i.e. karbytes_refinement_[05august2026]). And in the transcript of this video, I'll be sure to include what the name of that disc will be.
+But because it’s not the complete version of whatever that is, to my knowledge, I’ll be appending the current date to that. So it’ll be karbytes_refinement, square bracket, containing 05_AUGUST_2026 (i.e. karbytes_refinement_[05august2026]). And in the transcript of this video, I’ll be sure to include what the name of that disc will be.
 
-So I'm just out here just getting a little bit of a break from The Burrow before I head back in and do some more KARBYTES-related work. That's pretty much all I'm doing for the time being, especially during the latter phase of the summer Hiatus. I'm not yet in the Fifth Dark Hiatus Bubble of the summer Hiatus, because I'm still in the midst of doing cannon KARBYTES updates.
+So I’m just out here just getting a little bit of a break from The Burrow before I head back in and do some more KARBYTES-related work. That’s pretty much all I’m doing for the time being, especially during the latter phase of the summer Hiatus. I’m not yet in the Fifth Dark Hiatus Bubble of the summer Hiatus, because I’m still in the midst of doing cannon KARBYTES updates.
 
-So there's officially going to be at least two such updates being done today. And those official updates are recorded in some text file, which I'll link to in the transcript of this video.  I'm walking around shirtless, because I thought I should probably get some sunshine, get some vitamin D. 
+So there’s officially going to be at least two such updates being done today. And those official updates are recorded in some text file, which I’ll link to in the transcript of this video. I’m walking around shirtless, because I thought I should probably get some sunshine, get some vitamin D.
 
-And also, because I'm not really waiting for the world to catch up to my sensibilities, so if people have an issue with XX-chromosome people walking around without a shirt, that's their problem.
+And also, because I’m not really waiting for the world to catch up to my sensibilities, so if people have an issue with XX-chromosome people walking around without a shirt, that’s their problem.
 
-Not my problem. Enough about apes. Let's focus on the bigger picture.
+Not my problem. Enough about apes. Let’s focus on the bigger picture.
 
-Intelligence at large. I'm interested in the evolution of intelligence in whatever form it takes, whether it's animals, machines, et cetera. After a while, I won't be talking very much, because I'll just be allowing nonverbal thoughts to happen.
+Intelligence at large. I’m interested in the evolution of intelligence in whatever form it takes, whether it’s animals, machines, et cetera. After a while, I won’t be talking very much, because I’ll just be allowing nonverbal thoughts to happen.
 
-So if that's the case, then the video probably won't be titled something like karbytes_thinking, because I only use that title for videos if I'm talking. Well, it's already been five minutes. I don't want to compress the video too much and lose the visual quality.
+So if that’s the case, then the video probably won’t be titled something like karbytes_thinking, because I only use that title for videos if I’m talking. Well, it’s already been five minutes. I don’t want to compress the video too much and lose the visual quality.
 
 Ouch. Too many thorns.
