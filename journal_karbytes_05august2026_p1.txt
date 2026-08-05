@@ -142,18 +142,44 @@ So to me, that resolves a lot of conflict, because rather than fight against wha
 
 * * *
 
-// 2
+video_2_name: karbytes_thinking_05august2026_p2.mp4
 
-All right, it's approximately 11.30 p.m. on 05 August 2026, and I'm making a video (0:15) recording of the second time I video recorded myself going on a warm-up walk. (0:23) This time I'm not wearing any special socks or shoes, partly because the special socks (0:33) don't actually hold up very well over time, so this is my attempt to try to reduce overall (0:40) cost of equipment. (0:43) And I was talking about how you can see my house from here.
-(0:47) There it is. (0:48) It's that house at the top of the hill. (0:50) Well, not technically at the top.
-(0:53) There's at least one or two other houses up at the top of the hill, but the one that (0:58) you can actually see, that's where the burrow is. (1:02) It has the pole in front of it. (1:07) And unlike last time I made a recording here, there's actually the flowers that came back.
-(1:14) I call them the July flowers. (1:18) So that's good news. (1:21) I'm surprised there's so many of them, actually.
-(1:25) About a month or two ago, or a month ago, there wasn't really any of them except for (1:31) maybe the stems, but the flowers grew back. (1:38) That's reassuring. (1:40) And over there in the distance is Mount Diablo, and if you look really carefully, you can (1:48) even see Dinosaur Ridge Trail.
-(1:52) And over there, there's Rocky Ridge Radio Tower, but it's probably hard to see from (1:57) this angle. (2:01) I'll be heading there later today. (2:07) After I burn at least one disc of the latest of carbites, which is called carbites refinement.
-(2:15) But because it's not the complete version of whatever that is, to my knowledge, I'll (2:22) be appending the current date to that. (2:25) So it'll be carbites refinement, square bracket, containing 05 August 2026. (2:38) And in the transcript of this video, I'll be sure to include what the name of that disc (2:45) will be.
-(2:53) So I'm just out here just getting a little bit of a break from the burrow before I head (3:00) back in and do some more carbites-related work. (3:05) That's pretty much all I'm doing for the time being, especially during the latter phase (3:10) of the summer hiatus. (3:14) I'm not yet in the fifth dark hiatus bubble of the summer hiatus, because I'm still in (3:22) the midst of doing cannon carbite updates.
-(3:25) So there's officially going to be at least two such updates being done today. (3:33) And those official updates are recorded in some text file, which I'll link to in the (3:39) transcript of this video. (3:48) I'm walking around shirtless, because I thought I should probably get some sunshine, get some (3:57) vitamin D. And also, because I'm not really waiting for the world to catch up to my sensibilities, (4:07) so if people have an issue with ex-extremism people walking around without a shirt, that's (4:14) their problem.
-(4:17) Not my problem. (4:22) Enough about apes. (4:24) Let's focus on the bigger picture.
-(4:27) Intelligence at large. (4:29) I'm interested in the evolution of intelligence in whatever form it takes, whether it's animals, (4:37) machines, etc. (4:44) After a while, I won't be talking very much, because I'll just be allowing nonverbal thoughts (4:50) to happen.
-(4:51) So if that's the case, then the video probably won't be titled something like Carbite's Thinking, (4:58) because I only use that title for videos if I'm talking. (5:02) Well, it's already been five minutes. (5:05) I don't want to compress the video too much and lose the visual quality.
-(5:16) Ouch. (5:17) Too many thorns.
+(relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_warmup_walk_big_green_thing_25june2026_p0.mp4)
+
+(relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_28july2026/)
+
+(relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_for_life_blog_updates.txt)
+
+video_2_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p2.mp4
+
+video_2_transcription:
+
+All right, it's approximately 11.30 p.m. [should have been a.m.] on 05_AUGUST_2026, and I'm making a video recording of the second time I video recorded myself going on a "warm-up walk". This time I'm not wearing any special socks or shoes, partly because the special socks don't actually hold up very well over time, so this is my attempt to try to reduce overall  cost of equipment. And I was talking about how you can see my house from here.
+
+There it is. It's that house at the top of the hill. Well, not technically at the top.
+
+There's at least one or two other houses up at the top of the hill, but the one that you can actually see, that's where The Burrow is. It has the pole in front of it. And unlike last time I made a recording here, there's actually the flowers that came back.
+
+I call them the July flowers. So that's good news. I'm surprised there's so many of them, actually.
+
+About a month or two ago, or a month ago, there wasn't really any of them except for maybe the stems, but the flowers grew back. That's reassuring. 
+
+And over there in the distance is Mount Diablo, and if you look really carefully, you can even see Dinosaur Ridge Trail.
+
+And over there, there's Rocky Ridge Radio Tower, but it's probably hard to see from this angle. I'll be heading there later today. After I burn at least one disc of the latest of KARBYTES, which is called karbytes_refinement.
+
+But because it's not the complete version of whatever that is, to my knowledge, I'll be appending the current date to that. (2:25) So it'll be karbytes_refinement, square bracket, containing 05_AUGUST_2026 (i.e. karbytes_refinement_[05august2026]). And in the transcript of this video, I'll be sure to include what the name of that disc will be.
+
+So I'm just out here just getting a little bit of a break from The Burrow before I head back in and do some more KARBYTES-related work. That's pretty much all I'm doing for the time being, especially during the latter phase of the summer Hiatus. I'm not yet in the Fifth Dark Hiatus Bubble of the summer Hiatus, because I'm still in the midst of doing cannon KARBYTES updates.
+
+So there's officially going to be at least two such updates being done today. And those official updates are recorded in some text file, which I'll link to in the transcript of this video.  I'm walking around shirtless, because I thought I should probably get some sunshine, get some vitamin D. 
+
+And also, because I'm not really waiting for the world to catch up to my sensibilities, so if people have an issue with XX-chromosome people walking around without a shirt, that's their problem.
+
+Not my problem. Enough about apes. Let's focus on the bigger picture.
+
+Intelligence at large. I'm interested in the evolution of intelligence in whatever form it takes, whether it's animals, machines, et cetera. After a while, I won't be talking very much, because I'll just be allowing nonverbal thoughts to happen.
+
+So if that's the case, then the video probably won't be titled something like karbytes_thinking, because I only use that title for videos if I'm talking. Well, it's already been five minutes. I don't want to compress the video too much and lose the visual quality.
+
+Ouch. Too many thorns.
