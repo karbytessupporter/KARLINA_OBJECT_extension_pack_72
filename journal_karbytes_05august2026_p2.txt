@@ -1,0 +1,37 @@
+/**
+ * file: journal_karbytes_05august2026_p2.txt
+ * type: plain-text
+ * date: 06_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// KARBYTES_VIDEO_TRANSCRIPTIONS_05AUGUST2026_P1
+
+The following four videos was transcribed using the TurboScribe.ai web application.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026_a/
+
+* * *
+
+video_3_name: karbytes_thinking_05august2026_p3.mp4
+
+video_3_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p3.mp4
+
+video_3_transcription:
+
+* * *
+
+video_4_name: karbytes_thinking_05august2026_p4.mp4
+
+video_4_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p4.mp4
+
+video_4_transcription:
+
+* * *
+
+video_5_name: karbytes_thinking_05august2026_p5.mp4
+
+video_5_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p5.mp4
+
+video_5_transcription:
