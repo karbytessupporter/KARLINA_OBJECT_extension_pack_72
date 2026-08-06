@@ -12,6 +12,8 @@ The following four videos was transcribed using the TurboScribe.ai web applicati
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026_a/
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026_b/
+
 * * *
 
 video_3_name: karbytes_thinking_05august2026_p3.mp4
@@ -35,3 +37,11 @@ video_5_name: karbytes_thinking_05august2026_p5.mp4
 video_5_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p5.mp4
 
 video_5_transcription:
+
+* * *
+
+video_6_name: karbytes_thinking_05august2026_p6.mp4
+
+video_6_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p6.mp4
+
+video_6_transcription:
