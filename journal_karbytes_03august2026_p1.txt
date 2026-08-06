@@ -1,14 +1,14 @@
 /**
  * file: journal_karbytes_03august2026_p1.txt
  * type: plain-text
- * date: 04_AUGUST_2026
+ * date: 05_AUGUST_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 // KARBYTES_VIDEO_TRANSCRIPTIONS_03AUGUST2026
 
-The following video was transcribed using the TurboScribe.ai web application.
+The following three videos were transcribed using the TurboScribe.ai web application.
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_04july2026/
 
