@@ -63,3 +63,41 @@ The separate introductory [Wayback Machine image](https://raw.githubusercontent.
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021/
+
+ChatGPT:
+
+[Worked for 50s]
+
+No. The [micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021/) contains one incorrect raw-file hyperlink.
+
+Audit summary:
+
+* **17 total raw GitHub hyperlinks**
+
+- * 16 links presented as the repository inventory
+
+- * 1 introductory Wayback Machine image
+
+* **Correct links:** 16
+
+* **404 errors:** 0
+
+* **Live but incorrect links:** 1
+
+* **Exact duplicate links:** 0
+
+### Incorrect hyperlink
+
+The page currently lists:
+
+[`RAW_GITHUB_FILES_MACRO_DIRECTORY/main/redwoods_east_oakland_18_april_2021.jpg`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/redwoods_east_oakland_18_april_2021.jpg)
+
+That URL loads, but it points to a `.jpg` file in the wrong repository. The actual file appearing in the [`KARBYTES_BRAND_IMAGES_2021` repository](https://github.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021) is:
+
+[`KARBYTES_BRAND_IMAGES_2021/main/redwoods_east_oakland_18_april_2021.png`](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021/main/redwoods_east_oakland_18_april_2021.png)
+
+The repository confirms that the correct file is a 6.56-megabyte PNG, and the repository’s own `P2_KARBYTES_BRAND_IMAGES_2021.html` source also references that PNG.
+
+All other raw links—including the separate introductory Wayback Machine image—match existing GitHub files.
+
+**Final determination:** replace the `RAW_GITHUB_FILES_MACRO_DIRECTORY/...jpg` hyperlink with the `KARBYTES_BRAND_IMAGES_2021/...png` hyperlink shown above.
