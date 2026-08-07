@@ -332,3 +332,70 @@ Every `.jpeg` and `.jpg` link returned `image/jpeg`; the introductory Wayback im
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES/
+
+ChatGPT:
+
+[Worked for 2m 16s]
+
+No. The [Instagram 2022 directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES/) contains one 404 link, 14 live links pointing outside the named repository, and one omitted repository file.
+
+[preformatted_text]
+
+| Result                                    | Count |
+| ----------------------------------------- | ----: |
+| Unique raw hyperlinks displayed           |    42 |
+| Correct links, including the header image |    27 |
+| 404 links                                 |     1 |
+| Live but wrong-repository substitutions   |    14 |
+| Omitted repository files                  |     1 |
+| Exact duplicate links                     |     0 |
+
+[end preformatted_text]
+
+### 1. Broken HTML link
+
+This nonexistent path returns HTTP `404`:
+
+`P4_0_8_INSTAGRAM_KARBYTES_2022_IMAGE_8.html`
+
+The actual repository file is:
+
+[`P4_0_8_INSTAGRAM_SCREENSHOTS_2022.html`](https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES/main/P4_0_8_INSTAGRAM_SCREENSHOTS_2022.html)
+
+The unusual actual filename is an index-style HTML file rather than an individually named image-page file, but it is the repository’s genuine entry.
+
+### 2. Fourteen wrong-repository substitutions
+
+The page links to JPEG versions in `RAW_GITHUB_FILES_MACRO_DIRECTORY`, while [`INSTAGRAM_SCREENSHOTS_2022_KARBYTES`](https://github.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES) contains PNG versions.
+
+These 14 basenames are affected:
+
+* `instagram_karbytes_04_september_2022_part_0`
+
+* `instagram_karbytes_07_august_2022_part_0` through `part_7`
+
+* `instagram_karbytes_11_september_2022_part_0`
+
+* `instagram_karbytes_13_august_2022_part_0`
+
+* `instagram_karbytes_16_august_2022_part_0`
+
+* `instagram_karbytes_17_september_2022_part_0`
+
+* `instagram_karbytes_20_september_2022_part_0`
+
+Each external JPEG loads successfully, but each should be replaced with:
+
+`https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES/main/[same_basename].png`
+
+### 3. Omitted repository file
+
+The following valid PNG is absent entirely:
+
+[`instagram_karbytes_29_august_2022_part_0.png`](https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES/main/instagram_karbytes_29_august_2022_part_0.png)
+
+It returns HTTP `200`.
+
+The introductory Wayback Machine image is an intentional external link and works correctly.
+
+**Final determination:** the directory requires 15 link replacements—one HTML correction and 14 JPEG-to-PNG repository corrections—plus the addition of the omitted `29_august` PNG.
