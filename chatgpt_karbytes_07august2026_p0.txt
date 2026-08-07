@@ -399,3 +399,17 @@ It returns HTTP `200`.
 The introductory Wayback Machine image is an intentional external link and works correctly.
 
 **Final determination:** the directory requires 15 link replacements—one HTML correction and 14 JPEG-to-PNG repository corrections—plus the addition of the omitted `29_august` PNG.
+
+karbytes:
+
+As I go through the process of updating the hyperlinks in the micro-directory I most recently asked you to audit, I notice that some of the PNG images are too large to be viewed in browser. I think that might have motivated me in 2024 to make that micro-directory link to JPG versions of those PNG images (because I mistakenly assumed that the WayBack Machine would not be able to save the PNG images). I tested saving one of the PNG image URLs to the WayBack Machine and the save was successful (but the image has to be downloaded first from the WayBack Machine in order to be viewed). Hence, I am proceeding with updating the hyperlinks such that they point to the respective PNG files.
+
+ChatGPT:
+
+[Worked for 11s]
+
+That explanation fits the technical evidence from the audit. The eight `instagram_karbytes_07_august_2022_part_*.png` files are approximately 11–19 MB each, and GitHub serves them as `application/octet-stream` rather than `image/png`. Consequently, browsers commonly download them instead of displaying them inline. That behavior does not mean the files are missing, corrupted, or unsavable.
+
+The Wayback Machine can still archive those binary PNG responses even when its playback interface cannot render them directly. Downloading the archived file is therefore a valid way to retrieve and view it.
+
+Replacing the external JPEG substitutes with the repository’s actual PNG URLs will make the micro-directory an exact inventory again. If you still want convenient browser-viewable versions, the JPEGs could remain as separately labeled preview or derivative links outside the repository-inventory list rather than replacing the canonical PNG links.
