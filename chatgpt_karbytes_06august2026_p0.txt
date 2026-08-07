@@ -1965,3 +1965,39 @@ Of those links:
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_14/
+
+ChatGPT:
+
+[Worked for 1m 21s]
+
+No. The [extension-pack-14 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_14/) contains one broken link and omits one real repository file.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |    44 |
+| Distinct raw URLs               |    44 |
+| HTTP 200                        |    43 |
+| HTTP 404                        |     1 |
+| Redirects                       |     0 |
+| Duplicate links                 |     0 |
+| Displayed-URL/`href` mismatches |     0 |
+
+[end preformatted_text]
+
+### Broken link
+
+This URL returns HTTP 404 and its path is absent from the repository:
+
+* [raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG.html](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_14/main/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG.html)
+
+The only similarly named directory file actually present is `raw_github_files_directory_KARLINA_OBJECT_extension_pack_14.html`, which is already listed separately. Therefore, the broken link should be removed unless the missing file is meant to be uploaded.
+
+### Omitted file
+
+The [repository at commit 5dee46a](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_14/commit/5dee46aee931537f2ead80ea5ce17da2ed9e91a1) contains 43 files, but the page represents only 42 existing repository files. This valid file is absent:
+
+* [karbytes_23_may_2024.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_14/main/karbytes_23_may_2024.txt) — HTTP 200.
+
+**Verdict: remove the nonexistent directory-file link and add `karbytes_23_may_2024.txt`. All remaining raw links are valid and correctly targeted.**
