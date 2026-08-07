@@ -2537,3 +2537,85 @@ karbytes:
 Alright, I have fixed the errors you pointed out. Now, for the sake of being even more thorough, perform the following audit:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/
+
+ChatGPT:
+
+[Worked for 3m 43s]
+
+The [first-75-micro-directories page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/) does **not** fully pass the audit.
+
+[preformatted_text]
+
+| Check                                   | Result |
+| --------------------------------------- | -----: |
+| Raw-link occurrences                    |     91 |
+| Distinct raw URLs                       |     80 |
+| Distinct URLs returning HTTP 200        |     77 |
+| Distinct URLs returning HTTP 404        |      3 |
+| Broken-link occurrences                 |      4 |
+| Duplicate URLs                          |     11 |
+| Displayed-text/actual-`href` mismatches |      1 |
+| Redirects                               |      0 |
+| Repository files omitted                |      1 |
+
+[end preformatted_text]
+
+### Three distinct broken URLs
+
+1. [`P6_40_...KARBYTES_JOURNAL_2023_PART_5.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_40_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5.html)
+
+The valid Part 5 file is already listed as `P6_38_...PART_5.html`, so this erroneous link should be removed.
+
+2. [`P6_41_...KARBYTES_JOURNAL_2023_PART_6.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_41_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6.html)
+
+The valid Part 6 file is already listed as `P6_39_...PART_6.html`, so this erroneous link should also be removed.
+
+3. [`P6_47_...KARBYTES_JOURNAL_2023_PART_14.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_47_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14.html)
+
+This broken URL appears **twice**. The actual repository filename is:
+
+[`P6_46_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_46_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14.html)
+
+Replace one occurrence with that correct URL and remove the other occurrence.
+
+### Duplicate hyperlinks
+
+Eleven URLs occur twice:
+
+* `P6_40_...PART_7.html`
+
+* `P6_41_...PART_8.html`
+
+* `P6_42_...PART_9.html`
+
+* `P6_43_...PART_10.html`
+
+* `P6_44_...PART_11.html`
+
+* `P6_45_...PART_12.html`
+
+* `P6_47_...PART_14.html` — broken in both occurrences
+
+* `P6_48_...PART_15.html`
+
+* `P6_49_...PART_16.html`
+
+* `P6_4_...MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1.html`
+
+* `P6_65_...KARBYTES_JOURNAL_2023_PART_32.html`
+
+Most of the duplication comes from the repeated block between Parts 7 and 16 on the page.
+
+### Displayed-text error
+
+For `P6_6_raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3.html`, the clickable `href` is correct and returns HTTP 200, but its displayed URL begins with:
+
+`https://raw.githubusercontengithubusercontentt.com/`
+
+It should display:
+
+`https://raw.githubusercontent.com/`
+
+### Verdict
+
+The page currently contains **three distinct 404 targets, eleven duplicate URLs, one visible-URL typo, and one omitted repository file**—the corrected `P6_46_...PART_14.html` file above. The comparison used repository commit [`ece7dbf`](https://github.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/commit/ece7dbfb51495b1e56287e387794d3c504952d21).
