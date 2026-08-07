@@ -12,6 +12,8 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_k/
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_02august2026_g/
+
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05august2026_a/
 
 relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/drums_karbytes_06august2026_p0.mp4
@@ -1654,3 +1656,9 @@ The current [`KARLINA_OBJECT` repository](https://github.com/karlinarayberinger/
 * Audio files: `alert_sound_effect.wav`, `coyote_vocalizations_01_july_2023.mp3`, `drums_karbytes_10_september_2023_part_0.mp3`, `frogs_croaking_in_castro_valley_california_21_april_2022.mp3`, `guitar_karbytes_13july2024.mp3`, `guitar_karbytes_20august2024.mp3`, `karbytes_drums_20_october_2023.mp3`, `karbytes_drums_castro_valley_california_12_december_2022.mp3`, `karbytes_guitar_07_june_2023.mp3`, `karbytes_guitar_13_may_2023.mp3`, `karbytes_guitar_16_october_2023.mp3`, `karbytes_guitar_castro_valley_california_12_december_2022.mp3`
 
 The likely explanation is chronological drift: the page says it was last updated on **13_OCTOBER_2025**, whereas the repository’s current final commit is dated **02_MARCH_2026**.
+
+karbytes:
+
+Alright, I have fixed the errors you pointed out. Now, just to be a little extra thorough, please perform the following audit:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/
