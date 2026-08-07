@@ -2315,3 +2315,53 @@ karbytes:
 Alright, I have fixed the errors you pointed out. Now, for the sake of being even more thorough, perform the following audit:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_7/
+
+ChatGPT:
+
+[Worked for 1m 37s]
+
+Every actual raw hyperlink on the [extension-pack-7 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_7/) works and points to the correct file. However, two displayed URLs are malformed, and one repository file is omitted.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |    76 |
+| Distinct raw URLs               |    76 |
+| HTTP 200                        |    76 |
+| HTTP 404                        |     0 |
+| Wrong actual targets            |     0 |
+| Redirects                       |     0 |
+| Duplicate links                 |     0 |
+| Displayed-URL/`href` mismatches |     2 |
+
+[end preformatted_text]
+
+### Two malformed displayed URLs
+
+These links have correct functioning `href` values, but their displayed text omits `KARLINA_OBJECT_extension_pack_7/main/`:
+
+[preformatted_text]
+
+gender_free_odyssey_dot_yolasite_dot_com_forward_slash_cognitive_bias_dot_php_screenshot_31_january_2024.png
+gender_free_odyssey_dot_yolasite_dot_com_forward_slash_links_dot_php_screenshot_31_january_2024.png
+
+[end preformatted_text]
+
+Their displayed URLs should use this complete prefix:
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/
+
+[end preformatted_text]
+
+### Omitted file
+
+The [repository at commit e2aabd9](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/commit/e2aabd9fef68d7124f7b6099927d4454abbedaae) contains 76 files, while the page represents only 75. This PNG is absent:
+
+* [gender_free_odyssey_dot_yolasite_dot_com_foward_slash_evolutionary_timeline_dot_php_screenshot_31_january_2024.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/gender_free_odyssey_dot_yolasite_dot_com_foward_slash_evolutionary_timeline_dot_php_screenshot_31_january_2024.png) — HTTP 200.
+
+Note that the repository filename genuinely contains `foward`, not `forward`; that spelling must be preserved in the URL.
+
+**Verdict: all listed hyperlinks function correctly, but two displayed URLs should be corrected and the omitted PNG should be added.**
