@@ -583,3 +583,9 @@ This file exists and returns HTTP `200`. It should appear between `P6_5_GOLDEN_R
 `P6_SOLAR_ENERGY_TOKENS_COPY.html` appears twice. Both occurrences point to the same valid file, so this is redundant rather than broken.
 
 **Final determination:** no displayed link is broken or incorrectly targeted, but the directory is incomplete because `P6_6_NUMBERS_COPY.html` is missing. Removing the duplicate would also make it a strict one-link-per-file inventory.
+
+karbytes:
+
+Alright, I finished updating the PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022 micro-directory according to your suggestions. Now let's proceed with the next micro-directory audit.
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/
