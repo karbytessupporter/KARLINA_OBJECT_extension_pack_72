@@ -2495,3 +2495,39 @@ karbytes:
 Alright, I have fixed the errors you pointed out. Now, for the sake of being even more thorough, perform the following audit:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_3/
+
+ChatGPT:
+
+[Worked 2m 12s]
+
+Every raw GitHub hyperlink currently present on the [extension-pack-3 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_3/) is valid and correctly matched. However, the directory is not fully complete.
+
+[preformatted_text]
+
+| Check                                  | Result |
+| -------------------------------------- | -----: |
+| Raw-link occurrences                   |    155 |
+| Distinct raw URLs                      |    154 |
+| HTTP 200 responses                     |    154 |
+| 404 responses                          |      0 |
+| Wrong or nonexistent paths             |      0 |
+| Displayed URL/actual-`href` mismatches |      0 |
+| Redirects                              |      0 |
+| Duplicate links                        |      1 |
+| Repository files omitted               |      3 |
+
+[end preformatted_text]
+
+The following valid file is listed twice:
+
+* [`karlina_object_winter_2023_abridged_print_page_28.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karlina_object_winter_2023_abridged_print_page_28.txt)
+
+These three repository files are not listed:
+
+* [`karbytes_03_november_2023.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karbytes_03_november_2023.txt)
+
+* [`karbytes_right_shoulder_tattoo_18_november_2023.jpg`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karbytes_right_shoulder_tattoo_18_november_2023.jpg)
+
+* [`karbytes_sustainable_commute_mode_11_november_2023.jpg`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karbytes_sustainable_commute_mode_11_november_2023.jpg)
+
+**Verdict:** hyperlink integrity passes—there are no 404s or wrong-file links—but one duplicate should be removed and three missing links should be added for complete one-to-one coverage. The comparison used commit [`63fa19e`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/commit/63fa19e499580f01759da53ec6deade213c3538c).
