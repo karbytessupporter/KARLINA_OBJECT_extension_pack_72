@@ -1825,3 +1825,102 @@ karbytes:
 Alright, I have fixed the errors you pointed out. Now, for the sake of being a little extra thorough, perform the following audit:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_16/
+
+ChatGPT:
+
+[Worked for 5m 14s]
+
+No. The [extension-pack-16 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_16/) contains five broken links, 59 displayed-URL mismatches, and 24 omitted repository files.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |   313 |
+| Distinct raw URLs               |   313 |
+| HTTP 200                        |   308 |
+| HTTP 404                        |     5 |
+| Displayed-URL/`href` mismatches |    59 |
+| Redirects                       |     0 |
+| Duplicates                      |     0 |
+
+[end preformatted_text]
+
+### Five broken links
+
+These paths return HTTP 404 and do not exist in the repository:
+
+[preformatted_text]
+
+baylands_24june2024_p23_(newark_slough_fremont).jpg
+baylands_24june2024_p24_(newark_slough_fremont).jpg
+baylands_24june2024_p25_(newark_slough_fremont).jpg
+baylands_24june2024_p26_(newark_slough_fremont).jpg
+baylands_tour_20june2024_p62.jpg
+
+[end preformatted_text]
+
+The repository instead contains:
+
+[preformatted_text]
+
+baylands_24june2024_p23_(stanford_palo_alto).jpg
+baylands_24june2024_p24_(stanford_palo_alto).jpg
+baylands_24june2024_p25_(stanford_palo_alto).jpg
+baylands_24june2024_p26_(stanford_palo_alto).jpg
+
+[end preformatted_text]
+
+The first four broken links therefore appear to require replacing `newark_slough_fremont` with `stanford_palo_alto`. No corresponding `baylands_tour_20june2024_p62.jpg` exists, so that entry should be removed unless the file is meant to be uploaded.
+
+### Fifty-nine displayed-URL mismatches
+
+For the following `pN` values, the visible link text says:
+
+[preformatted_text]
+
+baylands_tour_20june2024_pN.jpg
+
+[end preformatted_text]
+
+while the actual functioning `href` points to:
+
+[preformatted_text]
+
+baylands_tour_22june2024_pN.jpg
+
+[end preformatted_text]
+
+Affected numbers:
+
+[end preformatted_text]
+
+p0–p6
+p10–p27
+p29–p62
+
+[end preformatted_text]
+
+All 59 actual `22june2024` targets return HTTP 200. The visible text should therefore be changed from `20june2024` to `22june2024`.
+
+### Twenty-four omitted files
+
+The [repository at commit 867b66d](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/commit/867b66df4d163e281bde1e03a2807128ac10c706) contains 331 files, but only 307 existing repository files are currently represented correctly. These 24 files are absent:
+
+* `baylands_24june2024_p3_(mountain_view).jpg` through `p5`
+
+* `baylands_24june2024_p6_(palo_alto).jpg`
+
+* `baylands_24june2024_p7_(menlo_park).jpg` through `p9`
+
+* `baylands_24june2024_p23_(stanford_palo_alto).jpg` through `p26`
+
+* `baylands_fremont_20june2024_p0.jpg` through `p7`
+
+* `baylands_tour_21june2024_p20.jpg`
+
+* `baylands_tour_22june2024_p7.jpg`, `p8`, `p9`, and `p28`
+
+The four Stanford/Palo Alto files will cease being omissions if they replace the four broken Newark Slough/Fremont links.
+
+**Verdict: this directory requires five broken-link corrections, 59 visible-text corrections, and 20 additional file links beyond the four likely replacements.**
