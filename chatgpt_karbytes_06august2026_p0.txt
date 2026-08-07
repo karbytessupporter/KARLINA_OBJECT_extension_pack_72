@@ -26,7 +26,7 @@ Closely examine the following web page: https://karbytesforlifeblog.wordpress.co
 
 ChatGPT:
 
-[Worked for 1m 47 s (after re-submitting the prompt after request timed out due to karbytes being "away from keyboard" for more than ten minutes)]
+[Worked for 1m 47 s (after re-submitting the prompt after request timed out due to karbytes being “away from keyboard” for more than ten minutes)]
 
 I examined the rendered page, deduplicated its hyperlinks, opened every distinct destination, downloaded and sampled the linked MP4s, and inspected the images at full resolution. All 35 unique destinations resolved: 26 are article-content targets and nine are WordPress/site-interface targets. I found no broken content link.
 
@@ -81,19 +81,19 @@ The camera remains almost stationary inside The Burrow. A laptop displaying a da
 The long monologue moves through several levels:
 
 * The major canon update and whether extension pack 72 should remain open for “sneaky bits.”
-   
+
 * Difficult food-shopping encounters in Castro Valley, alongside karbytes’ acknowledgement of its own past shoplifting and rude behavior.
-   
+
 * A feeling that local people preserve old grievances and treat karbytes as unwelcome.
-   
+
 * Financial and logistical constraints on moving, employment, and shopping outside Castro Valley.
-   
+
 * Automation, universal basic income, and the idea that some societies treat compulsory suffering—not useful production—as the moral price of existence.
-   
+
 * Solitude, unwillingness to socialize merely for validation, and frustration with passive-aggressive communication.
-  
+
 * The decision to stop meticulously auditing lower-priority legacy micro-directories.
-   
+
 * Psilocybin as a perceived cognitive turning point, AI as a prosthetic extension of mind, and a panpsychic model in which apparently separate agents participate in one encompassing reality.
 
 8. [karbytes_warmup_walk_big_green_thing_25june2026_p0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/karbytes_warmup_walk_big_green_thing_25june2026_p0.mp4)
@@ -295,7 +295,6 @@ The page’s recursion is unusually important:
     C --> D["Macro directory"]
     D --> E["Blog homepage"]
     A --> A
-
 [end preformatted_text]
 
 That chain makes the page simultaneously a diary entry, a derived rendition, a provenance record, and an index into the machinery that preserves it. The self-link closes the loop. Rather than asking the reader simply to trust that the artifact came from somewhere, the page exposes its derivational pathway.
@@ -386,7 +385,6 @@ The August 6 metadata appears to denote compilation or publication, while the re
 | [p4.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p4.mp4) | 7:46.9; 240×134; H.264 with mono AAC; 19.94 MB | Almost the same stationary trail-fork composition, with subtle changes in evening light                                  |
 | [p5.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p5.mp4) | 5:17.3; 262×148; H.264 with mono AAC; 14.10 MB | Again the same trail, hill, and oak at sunset                                                                            |
 | [p6.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/karbytes_thinking_05august2026_p6.mp4) | 4:58.6; 276×156; H.264 with mono AAC; 12.19 MB | Nighttime view from inside or through a car windshield, dominated by a bright streetlight and dim surrounding structures |
-
 [end preformatted_text]
 
 The first three recordings are visually austere: the landscape barely changes while the speaker’s ideas change substantially. The fourth shifts location and lighting as the speaker reconsiders an earlier moral argument.
@@ -557,7 +555,6 @@ plain-text source
 → extension-pack raw-file directory
 → macro directory
 → WordPress hypertext edition
-
 [end preformatted_text]
 
 It also links both part A and part B, making the journal’s internal serial structure explicit. Four recordings—p3 through p6—supply the principal narrative. The first three occur at a trail fork in the Big Green Thing during the evening; the fourth occurs later in a parked car. The page was last updated on August 6, while the spoken events are dated August 5.
@@ -892,7 +889,6 @@ The two opening photographs quietly summarize the whole document. One looks from
     B --> C["Computers and archive"]
     C --> B
     B --> A
-
 [end preformatted_text]
 
 The Burrow is simultaneously sanctuary and trap. It enables the enormous archive, livestreaming, model conversations, and private staging work. Yet prolonged attention to those systems produces confinement, irritation, and the feeling that the living day is being spent maintaining representations of life rather than living it.
@@ -913,7 +909,7 @@ karbytes:
 
 [uploaded_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/drums_karbytes_06august2026_p0.mp4]
 
-This conversation transcript is somewhat of a "variety show". Now I'd like you to analyze and describe the following recently-produced drum recording.
+This conversation transcript is somewhat of a “variety show”. Now I’d like you to analyze and describe the following recently-produced drum recording.
 
 ChatGPT:
 
@@ -937,7 +933,6 @@ Because the picture is effectively black and this environment cannot audition lo
 | Integrated RMS            |            –14.15 dBFS |
 | Highest peak              |             –0.01 dBFS |
 | Crest factor              |               14.14 dB |
-
 [end preformatted_text]
 
 ### Picture
@@ -1068,7 +1063,6 @@ The intensity is not distributed uniformly:
     D --> E["Reset"]
     E --> F["Main climax"]
     F --> G["Final drive"]
-
 [end preformatted_text]
 
 That progression makes the recording more musically interesting than a single exercise repeated at one force level. Even if it was improvised practice rather than a formally planned composition, it acquires a composition-like trajectory through accumulation, withdrawal, rebuilding, and final release.
@@ -1091,7 +1085,7 @@ karbytes:
 
 The trascript of this conversation will eventually be turned into a WordPress dot Com web page named chatgpt_karbytes_06august2026_a whose featured image is as follows: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p12.jpg
 
-Tentatively, chatgpt_karbytes_06august2026_a will be the final blog post which I publish to my social media pages which is part of the micro-directory named KARLINA_OBJECT_extension_pack_72. 
+Tentatively, chatgpt_karbytes_06august2026_a will be the final blog post which I publish to my social media pages which is part of the micro-directory named KARLINA_OBJECT_extension_pack_72.
 
 Immediately before chatgpt_karbytes_06august2026_a on my social media pages will be journal_karbytes_05august2026_b (and the featured image of journal_karbytes_05august2026_b is the following image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p2.jpg).
 
@@ -1106,8 +1100,6 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 First examine the two screenshot images and commentate on them. Then carefully examine chatgpt_karbytes_05august2026_a and do the following for that web page:
 
 losely examine the following web page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05august2026_a/. Open each unique hyperlink which appears on that web page and generate a detailed description of the file which is pointed to by the respective hyperlink. Lastly, generate a detailed description of the entire web page named chatgpt_karbytes_05august2026_a which includes your own speculative or elaborate commentary.
-
-karbytes:
 
 ChatGPT:
 
@@ -1190,7 +1182,6 @@ The sequence moves through several representational layers:
     E --> F["Burrow threshold"]
     F --> G["Night landscape"]
     G --> H["Spyro in enclosed yard"]
-
 [end preformatted_text]
 
 The first two images are intensely constructed and interpretive. They describe the archive through cubes, coordinate systems, voids, and mathematical discontinuity. The next three return to unmodified terrain. The Burrow deck then supplies a threshold between landscape and archive. The final two contract the visible world into darkness and an enclosed domestic habitat.
@@ -1511,7 +1502,6 @@ The recursive production loop is identified:
     D --> E["HTML edition"]
     E --> F["Preservation task"]
     F --> A
-
 [end preformatted_text]
 
 The next major movement is the exhaustive examination of `journal_karbytes_05august2026`. The assistant reports 645 node-to-destination relationships and 422 distinct outgoing URLs across the underlying graph, then interprets all fifteen nodes:
@@ -1584,7 +1574,6 @@ No. The [micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_git
 | HTTP 404                        |     1 |
 | Redirects                       |     0 |
 | Displayed-URL/target mismatches |     0 |
-
 [end preformatted_text]
 
 The broken link is:
@@ -1632,7 +1621,6 @@ No—the page does not completely pass, although **none of its raw links return 
 | Redirects                |     0 |
 | Duplicate links          |     0 |
 | Wrong-repository targets |     1 |
-
 [end preformatted_text]
 
 ### Wrong-target hyperlink
@@ -1681,7 +1669,6 @@ Yes. The [KARBYTES_FOR_LIFE_BLOG micro-directory page](https://karbytesforlifebl
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those 29 links:
@@ -1715,7 +1702,6 @@ Every actual raw GitHub hyperlink on the [extension-pack-19 directory page](http
 | Wrong actual targets |     0 |
 | Redirects            |     0 |
 | Duplicate links      |     0 |
-
 [end preformatted_text]
 
 ### Malformed displayed URL
@@ -1735,7 +1721,6 @@ The visible text should match the functioning `href`:
 [preformatted_text]
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/wherever_i_may_roam_by_metallica_released_19october1992_downloaded_by_karbytes_on_02september2024.mp4
-
 [end preformatted_text]
 
 ### Omitted repository file
@@ -1770,7 +1755,6 @@ Yes. The [extension-pack-18 micro-directory page](https://karbytesforlifeblog.wo
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of these links:
@@ -1809,7 +1793,6 @@ Every raw GitHub hyperlink on the [extension-pack-17 micro-directory page](https
 | Redirects                       |     0 |
 | Displayed-URL/`href` mismatches |     0 |
 | Duplicate occurrences           |     1 |
-
 [end preformatted_text]
 
 The duplicated link is:
@@ -1843,7 +1826,6 @@ No. The [extension-pack-16 micro-directory page](https://karbytesforlifeblog.wor
 | Displayed-URL/`href` mismatches |    59 |
 | Redirects                       |     0 |
 | Duplicates                      |     0 |
-
 [end preformatted_text]
 
 ### Five broken links
@@ -1857,7 +1839,6 @@ baylands_24june2024_p24_(newark_slough_fremont).jpg
 baylands_24june2024_p25_(newark_slough_fremont).jpg
 baylands_24june2024_p26_(newark_slough_fremont).jpg
 baylands_tour_20june2024_p62.jpg
-
 [end preformatted_text]
 
 The repository instead contains:
@@ -1868,7 +1849,6 @@ baylands_24june2024_p23_(stanford_palo_alto).jpg
 baylands_24june2024_p24_(stanford_palo_alto).jpg
 baylands_24june2024_p25_(stanford_palo_alto).jpg
 baylands_24june2024_p26_(stanford_palo_alto).jpg
-
 [end preformatted_text]
 
 The first four broken links therefore appear to require replacing `newark_slough_fremont` with `stanford_palo_alto`. No corresponding `baylands_tour_20june2024_p62.jpg` exists, so that entry should be removed unless the file is meant to be uploaded.
@@ -1880,7 +1860,6 @@ For the following `pN` values, the visible link text says:
 [preformatted_text]
 
 baylands_tour_20june2024_pN.jpg
-
 [end preformatted_text]
 
 while the actual functioning `href` points to:
@@ -1888,7 +1867,6 @@ while the actual functioning `href` points to:
 [preformatted_text]
 
 baylands_tour_22june2024_pN.jpg
-
 [end preformatted_text]
 
 Affected numbers:
@@ -1949,7 +1927,6 @@ Yes. The [extension-pack-15 micro-directory page](https://karbytesforlifeblog.wo
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those links:
@@ -1983,7 +1960,6 @@ No. The [extension-pack-14 micro-directory page](https://karbytesforlifeblog.wor
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 ### Broken link
@@ -2026,7 +2002,6 @@ Yes. Every raw GitHub hyperlink on the [TEMPLATE micro-directory page](https://k
 | Redirects                       |     0 |
 | Displayed-URL/`href` mismatches |     0 |
 | Repeated URL                    |     1 |
-
 [end preformatted_text]
 
 The [repository at commit e738401](https://github.com/karlinarayberinger/TEMPLATE_micro_directory/commit/e738401b43f4c65a85dfbadd8bbbda7dce71cdad) contains exactly 39 files, and all 39 are represented on the page.
@@ -2059,7 +2034,6 @@ Yes. The [INSTAGRAM_KARBYTES_2024 micro-directory page](https://karbytesforlifeb
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those links:
@@ -2094,7 +2068,6 @@ Yes. The [extension-pack-13 micro-directory page](https://karbytesforlifeblog.wo
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those links:
@@ -2129,7 +2102,6 @@ Every raw hyperlink currently present on the [extension-pack-12 micro-directory 
 | Redirects                       |     0 |
 | Displayed-URL/`href` mismatches |     0 |
 | Duplicate occurrence            |     1 |
-
 [end preformatted_text]
 
 ### Duplicate link
@@ -2172,7 +2144,6 @@ Every raw hyperlink currently present on the [extension-pack-11 micro-directory 
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 The [repository at commit ec28919](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_11/commit/ec28919494f38fd024bb249c023195c3ed6c1e5d) contains 47 files, while the page references only 46 of them. The remaining raw link is the valid decorative image from `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
@@ -2207,7 +2178,6 @@ Yes. The [extension-pack-10 micro-directory page](https://karbytesforlifeblog.wo
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those links:
@@ -2242,7 +2212,6 @@ Yes. The [extension-pack-9 micro-directory page](https://karbytesforlifeblog.wor
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     0 |
-
 [end preformatted_text]
 
 Of those links:
@@ -2277,7 +2246,6 @@ Every actual raw hyperlink on the [extension-pack-8 micro-directory page](https:
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     1 |
-
 [end preformatted_text]
 
 ### Malformed displayed URL
@@ -2287,7 +2255,6 @@ The link’s functioning `href` is correct, but its visible text omits the repos
 [preformatted_text]
 
 https://raw.githubusercontent.com/karlinarayberinger/mdisc_karbytes23february2024_labels_13feb2024.jpg
-
 [end preformatted_text]
 
 The displayed text should be:
@@ -2295,7 +2262,6 @@ The displayed text should be:
 [preformatted_text]
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/mdisc_karbytes23february2024_labels_13feb2024.jpg
-
 [end preformatted_text]
 
 ### Omitted files
@@ -2334,7 +2300,6 @@ Every actual raw hyperlink on the [extension-pack-7 micro-directory page](https:
 | Redirects                       |     0 |
 | Duplicate links                 |     0 |
 | Displayed-URL/`href` mismatches |     2 |
-
 [end preformatted_text]
 
 ### Two malformed displayed URLs
@@ -2345,7 +2310,6 @@ These links have correct functioning `href` values, but their displayed text omi
 
 gender_free_odyssey_dot_yolasite_dot_com_forward_slash_cognitive_bias_dot_php_screenshot_31_january_2024.png
 gender_free_odyssey_dot_yolasite_dot_com_forward_slash_links_dot_php_screenshot_31_january_2024.png
-
 [end preformatted_text]
 
 Their displayed URLs should use this complete prefix:
@@ -2353,7 +2317,6 @@ Their displayed URLs should use this complete prefix:
 [preformatted_text]
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_7/main/
-
 [end preformatted_text]
 
 ### Omitted file
@@ -2393,7 +2356,6 @@ Audit performed August 7, 2026, against repository commit [`d6e8121`](https://gi
 | Displayed URL/actual-link mismatches |      0 |
 | Redirects                            |      0 |
 | Duplicate links                      |      0 |
-
 [end preformatted_text]
 
 Thus, **every raw GitHub hyperlink currently present on the [micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_6/) points to its correctly named, case-sensitive GitHub file and returns HTTP 200.**
@@ -2432,7 +2394,6 @@ The [extension-pack-5 micro-directory](https://karbytesforlifeblog.wordpress.com
 | Redirects                                    |      0 |
 | Duplicate links                              |      0 |
 | Repository files omitted from the list       |      0 |
-
 [end preformatted_text]
 
 The repository contains exactly **99 files**, and the page contains one correct raw hyperlink for each of those 99 files. The additional raw link is the expected decorative image from `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
@@ -2461,7 +2422,6 @@ The [extension-pack-4 micro-directory](https://karbytesforlifeblog.wordpress.com
 | Displayed URL/actual-`href` mismatches |      0 |
 | Redirects                              |      0 |
 | Repository files omitted               |      2 |
-
 [end preformatted_text]
 
 ### Broken hyperlink
@@ -2515,7 +2475,6 @@ Every raw GitHub hyperlink currently present on the [extension-pack-3 micro-dire
 | Redirects                              |      0 |
 | Duplicate links                        |      1 |
 | Repository files omitted               |      3 |
-
 [end preformatted_text]
 
 The following valid file is listed twice:
@@ -2557,20 +2516,19 @@ The [first-75-micro-directories page](https://karbytesforlifeblog.wordpress.com/
 | Displayed-text/actual-`href` mismatches |      1 |
 | Redirects                               |      0 |
 | Repository files omitted                |      1 |
-
 [end preformatted_text]
 
 ### Three distinct broken URLs
 
-1. [`P6_40_...KARBYTES_JOURNAL_2023_PART_5.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_40_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5.html)
+1. [`P6_40_…KARBYTES_JOURNAL_2023_PART_5.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_40_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5.html)
 
-The valid Part 5 file is already listed as `P6_38_...PART_5.html`, so this erroneous link should be removed.
+The valid Part 5 file is already listed as `P6_38_…PART_5.html`, so this erroneous link should be removed.
 
-2. [`P6_41_...KARBYTES_JOURNAL_2023_PART_6.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_41_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6.html)
+2. [`P6_41_…KARBYTES_JOURNAL_2023_PART_6.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_41_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6.html)
 
-The valid Part 6 file is already listed as `P6_39_...PART_6.html`, so this erroneous link should also be removed.
+The valid Part 6 file is already listed as `P6_39_…PART_6.html`, so this erroneous link should also be removed.
 
-3. [`P6_47_...KARBYTES_JOURNAL_2023_PART_14.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_47_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14.html)
+3. [`P6_47_…KARBYTES_JOURNAL_2023_PART_14.html`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_47_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14.html)
 
 This broken URL appears **twice**. The actual repository filename is:
 
@@ -2582,27 +2540,27 @@ Replace one occurrence with that correct URL and remove the other occurrence.
 
 Eleven URLs occur twice:
 
-* `P6_40_...PART_7.html`
+* `P6_40_…PART_7.html`
 
-* `P6_41_...PART_8.html`
+* `P6_41_…PART_8.html`
 
-* `P6_42_...PART_9.html`
+* `P6_42_…PART_9.html`
 
-* `P6_43_...PART_10.html`
+* `P6_43_…PART_10.html`
 
-* `P6_44_...PART_11.html`
+* `P6_44_…PART_11.html`
 
-* `P6_45_...PART_12.html`
+* `P6_45_…PART_12.html`
 
-* `P6_47_...PART_14.html` — broken in both occurrences
+* `P6_47_…PART_14.html` — broken in both occurrences
 
-* `P6_48_...PART_15.html`
+* `P6_48_…PART_15.html`
 
-* `P6_49_...PART_16.html`
+* `P6_49_…PART_16.html`
 
-* `P6_4_...MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1.html`
+* `P6_4_…MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1.html`
 
-* `P6_65_...KARBYTES_JOURNAL_2023_PART_32.html`
+* `P6_65_…KARBYTES_JOURNAL_2023_PART_32.html`
 
 Most of the duplication comes from the repeated block between Parts 7 and 16 on the page.
 
@@ -2618,7 +2576,7 @@ It should display:
 
 ### Verdict
 
-The page currently contains **three distinct 404 targets, eleven duplicate URLs, one visible-URL typo, and one omitted repository file**—the corrected `P6_46_...PART_14.html` file above. The comparison used repository commit [`ece7dbf`](https://github.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/commit/ece7dbfb51495b1e56287e387794d3c504952d21).
+The page currently contains **three distinct 404 targets, eleven duplicate URLs, one visible-URL typo, and one omitted repository file**—the corrected `P6_46_…PART_14.html` file above. The comparison used repository commit [`ece7dbf`](https://github.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/commit/ece7dbfb51495b1e56287e387794d3c504952d21).
 
 karbytes:
 
@@ -2643,7 +2601,6 @@ The [winter-2023-starter-pack micro-directory](https://karbytesforlifeblog.wordp
 | Displayed-text/actual-`href` mismatches |      3 |
 | Redirects                               |      0 |
 | Target-repository files omitted         |     22 |
-
 [end preformatted_text]
 
 ### Broken hyperlink
@@ -2728,7 +2685,7 @@ Correcting the `point.cpp` and `determinism_flowchart_diagram.png` targets would
 
 karbytes:
 
-I corrected some of the errors you identified in the micro-directory named raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack. (Note that, often times in the past, I have referred to micro-directories without using their full names (which include the preface string raw_girhub_files_directory and, instead, referred to them using their respective GitHub repository names)). I decided to stop making changes to that micro-directory because the way it was structured implied what I originally intended for that micro-directory to actually be (back in the year 2023). It seems like a definitive example of what I mean by "legacy micro-directories" because it shows how error-prone my "workflow" was during the first few years of authoring KARBYTES. I expect that, for now on, all micro-directories which are finalized on or after 11:59PM Pacific Standard Time on 07_AUGUST_2026 will be relatively flawless (compared to those "legacy micro-directories").
+I corrected some of the errors you identified in the micro-directory named raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack. (Note that, often times in the past, I have referred to micro-directories without using their full names (which include the preface string raw_girhub_files_directory and, instead, referred to them using their respective GitHub repository names)). I decided to stop making changes to that micro-directory because the way it was structured implied what I originally intended for that micro-directory to actually be (back in the year 2023). It seems like a definitive example of what I mean by “legacy micro-directories” because it shows how error-prone my “workflow” was during the first few years of authoring KARBYTES. I expect that, for now on, all micro-directories which are finalized on or after 11:59PM Pacific Standard Time on 07_AUGUST_2026 will be relatively flawless (compared to those “legacy micro-directories”).
 
 ChatGPT:
 
@@ -2752,4 +2709,4 @@ For future audits, I’ll continue reporting objective findings such as 404s, in
 
 * * *
 
-At this point in the conversation, karbytes decided to close this transcript file off to further updates so that the transcript could be made into a WordPress dot Com web page which isn't "excessively long". karbytes tentatively intends to continue auditing (and making revisions) to KARBYTES micro-directories in a continuation of the conversation showcased in this file. The transcript to that follow-up conversation will be available at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/chatgpt_karbytes_07august2026_p0.txt
+At this point in the conversation, karbytes decided to close this transcript file off to further updates so that the transcript could be made into a WordPress dot Com web page which isn’t “excessively long”. karbytes tentatively intends to continue auditing (and making revisions) to KARBYTES micro-directories in a continuation of the conversation showcased in this file. The transcript to that follow-up conversation will be available at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/chatgpt_karbytes_07august2026_p0.txt
