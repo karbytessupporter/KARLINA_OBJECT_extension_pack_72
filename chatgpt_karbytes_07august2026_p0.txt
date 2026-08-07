@@ -250,3 +250,45 @@ karbytes:
 Alright, I've updated the MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1 micro-directory such that its surface page now has a link pointing to the image file named brea_on_tarp_2020.jpeg. Now let's proceed with the next micro-directory audit. 
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2/
+
+ChatGPT:
+
+[Worked for 56s]
+
+Yes. Every raw GitHub hyperlink on the [Part 2 directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2/) matches an existing intended file.
+
+Audit results:
+
+* **10 unique raw GitHub hyperlinks**
+
+- * 9 files from [`MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2`](https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2)
+  
+- * 1 introductory Wayback Machine image
+
+* **Successful HTTP responses:** 10
+
+* **404 errors:** 0
+
+* **Wrong-file or wrong-repository substitutions:** 0
+
+* **Missing repository files:** 0
+
+* **Duplicate raw-file links:** 0
+
+The nine-file repository inventory contains:
+
+* 1 `LICENSE` file
+
+* 2 HTML files
+
+* 6 JPEG images
+
+Each image returned the correct `image/jpeg` content type, while the introductory image returned `image/png`. The HTML source also references the same six image filenames.
+
+The filename `cannabis_vaporizor_usb_charging_pen_2020.jpeg` contains the unusual spelling `vaporizor`, but that is its exact GitHub filename and therefore is not an error.
+
+**Final determination: Part 2’s raw GitHub inventory is complete, accurate, and free of broken links.**
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3/
