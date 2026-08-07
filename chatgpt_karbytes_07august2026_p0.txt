@@ -115,3 +115,30 @@ Understood. That changes the link from an accidental repository mismatch into an
 The image can now legitimately point to its copy in `KARLINA_OBJECT_extension_pack_72`, provided the raw URL uses that repository’s exact filename. However, the directory page’s statement that every listed file belongs to `KARBYTES_BRAND_IMAGES_2021` is no longer literally accurate. For maximum precision, you could label that link as an intentional external or supplemental file.
 
 Also, `redwoods_east_oakland_18_april_2021.png` remains an actual file in `KARBYTES_BRAND_IMAGES_2021`. If the directory is intended to inventory every file in that repository, its PNG raw link should remain listed in addition to the supplemental image hosted in extension pack 72.
+
+karbytes:
+
+I got a 404 result when I entered the following Uniform Resource Locator into a web browser address/search field: https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021/main/redwoods_east_oakland_18_april_2021.jpg
+
+ChatGPT:
+
+[Worked for 37s]
+
+Yes—that 404 is expected. GitHub treats `.jpg` and `.png` as completely different filenames.
+
+[preformatted_text]
+
+| Location                           | Filename                                                                                                                                                                        | Result                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| `KARBYTES_BRAND_IMAGES_2021`       | `redwoods_east_oakland_18_april_2021.jpg`                                                                                                                                       | **404 — nonexistent** |
+| `KARBYTES_BRAND_IMAGES_2021`       | [`redwoods_east_oakland_18_april_2021.png`](https://github.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021/blob/main/redwoods_east_oakland_18_april_2021.png)                 | **Exists**            |
+| `RAW_GITHUB_FILES_MACRO_DIRECTORY` | [`redwoods_east_oakland_18_april_2021.jpg`](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/redwoods_east_oakland_18_april_2021.jpg) | **Exists**            |
+| `KARLINA_OBJECT_extension_pack_72` | `redwoods_east_oakland_18_april_2021.jpg`                                                                                                                                       | Intended new location |
+
+[end preformatted_text]
+
+Thus, your newly intended raw URL should be:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/redwoods_east_oakland_18_april_2021.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/redwoods_east_oakland_18_april_2021.jpg)
+
+The publicly retrievable version of the [directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021/) still showed the older `RAW_GITHUB_FILES_MACRO_DIRECTORY/...jpg` destination during my check, so your WordPress revision may not yet have been saved or propagated.
