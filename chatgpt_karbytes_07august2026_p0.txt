@@ -589,3 +589,71 @@ karbytes:
 Alright, I finished updating the PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022 micro-directory according to your suggestions. Now let's proceed with the next micro-directory audit.
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/
+
+ChatGPT:
+
+[Worked for 1m 12s]
+
+No. The [15 November directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/) contains no 404 destinations, but it has one hyperlink pointing to the wrong file, seven entirely absent files, and several duplicates.
+
+[preformatted_text]
+
+| Result                               | Count |
+| ------------------------------------ | ----: |
+| Raw-link occurrences                 |   120 |
+| Unique raw URLs                      |   115 |
+| Repository files                     |   122 |
+| 404 destinations                     |     0 |
+| Wrong-file hyperlinks                |     1 |
+| Repository files not actually linked |     8 |
+| Duplicated target URLs               |     5 |
+
+[end preformatted_text]
+
+### Wrong-file hyperlink
+
+The row displaying:
+
+`P32_DISCLAIMER_15_NOVEMBER_2022_COPY.html`
+
+actually targets:
+
+`P31_EPISTEMOLOGY_15_NOVEMBER_2022_COPY.html`
+
+Its `href` should be changed to:
+
+[`P32_DISCLAIMER_15_NOVEMBER_2022_COPY.html`](https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P32_DISCLAIMER_15_NOVEMBER_2022_COPY.html)
+
+Correcting that link will also eliminate the accidental duplicate of `P31_EPISTEMOLOGY_15_NOVEMBER_2022_COPY.html`.
+
+### Seven entirely absent files
+
+* `P0_START_PAGE_15_NOVEMBER_2022_COPY.html`
+
+* `alert_sound_effect.wav`
+
+* `drumz_karbytes_10_july_2022.mp3`
+
+* `drumz_karbytes_12_november_2022.mp3`
+
+* `frogs_croaking_24_august_2021.mp3`
+
+* `number_sets_diagram.png`
+
+* `sound_track_looper_interface_final.png`
+
+### Four additional duplicate pairs
+
+* `binary_to_decimal_web_page_source_code.png`
+
+* `factorial_output.txt`
+
+* `fibonacci_sequence.cpp`
+
+* `physical_and_virtual_reality.png`
+
+Each of these appears twice with the same valid destination.
+
+The Wayback Machine header image is a valid intentional external link.
+
+**Final determination:** correct the `P32` hyperlink, add the seven entirely absent files, and optionally remove the four redundant duplicate occurrences. Afterward, the exact inventory should contain 122 repository links plus the single header-image link.
