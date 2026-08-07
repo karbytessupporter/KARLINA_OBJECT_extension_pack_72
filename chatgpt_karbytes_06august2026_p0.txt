@@ -2309,3 +2309,9 @@ The [repository at commit 5526054](https://github.com/karlinarayberinger/KARLINA
 The remaining raw URL is the valid decorative image from `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
 
 **Verdict: all listed links function correctly, but one displayed URL should be corrected and the two omitted JPGs should be added.**
+
+karbytes:
+
+Alright, I have fixed the errors you pointed out. Now, for the sake of being even more thorough, perform the following audit:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_7/
