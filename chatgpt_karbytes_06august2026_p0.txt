@@ -1790,3 +1790,32 @@ karbytes:
 Splendid! Now, just to be a little extra thorough, please perform the following audit:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_17/
+
+ChatGPT:
+
+[Worked for 3m 30s]
+
+Every raw GitHub hyperlink on the [extension-pack-17 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_17/) is valid and correctly targeted. The only defect is one duplicate entry.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |   189 |
+| Distinct raw URLs               |   188 |
+| HTTP 200                        |   188 |
+| HTTP 404                        |     0 |
+| Wrong targets                   |     0 |
+| Redirects                       |     0 |
+| Displayed-URL/`href` mismatches |     0 |
+| Duplicate occurrences           |     1 |
+
+[end preformatted_text]
+
+The duplicated link is:
+
+* [baylands_sunnyvale_california_20july2024.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/main/baylands_sunnyvale_california_20july2024.jpg) — listed twice; both occurrences work.
+
+The [repository at commit 5666870](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_17/commit/5666870d6fe9943c2bd99acd5e3e396a19ed35f9) contains exactly 187 files. All 187 are represented on the page, with no omissions or nonexistent paths. The remaining distinct raw link is the valid decorative image from `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
+
+**Verdict: every hyperlink works and points to the correct file, but one duplicate JPG link should be removed for a strictly one-link-per-file directory.**
