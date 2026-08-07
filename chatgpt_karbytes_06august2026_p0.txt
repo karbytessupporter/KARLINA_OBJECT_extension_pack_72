@@ -2223,3 +2223,38 @@ Of those links:
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_9/
+
+ChatGPT:
+
+[Worked for 2m 38s]
+
+Yes. The [extension-pack-9 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_9/) passes the complete audit.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |   259 |
+| Distinct raw URLs               |   259 |
+| HTTP 200                        |   259 |
+| HTTP 404                        |     0 |
+| Wrong targets                   |     0 |
+| Redirects                       |     0 |
+| Duplicate links                 |     0 |
+| Displayed-URL/`href` mismatches |     0 |
+
+[end preformatted_text]
+
+Of those links:
+
+* 258 point to files in `KARLINA_OBJECT_extension_pack_9/main`.
+
+* One points to the valid decorative image in `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
+
+* The [repository at commit ee691f8](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_9/commit/ee691f885759e7e3fff9aba4c2fde78c5df43e5e) contains exactly 258 files, all represented exactly once.
+
+**Final verdict: every raw GitHub hyperlink is valid, correctly targeted, nonduplicated, and complete.**
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_8/
