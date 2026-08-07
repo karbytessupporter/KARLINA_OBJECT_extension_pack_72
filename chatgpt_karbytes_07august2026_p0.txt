@@ -1,0 +1,63 @@
+/**
+ * file: chatgpt_karbytes_07august2026_p0.txt
+ * type: plain-text
+ * date: 07_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT 5.6 Sol Work Mode which took place between 11:59PM Pacific Standard Time on 06_AUGUST_2026 and 11:59PM Pacific Standard Time on 07_AUGUST_2026.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06august2026_a/
+
+* * *
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_2020_SCREENSHOTS/
+
+ChatGPT:
+
+[Worked for 1m 11s]
+
+Yes. Every raw GitHub hyperlink on the [micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_2020_SCREENSHOTS/) is valid and points to the intended file.
+
+Audit results:
+
+* **85 raw GitHub hyperlinks examined**
+
+- * 84 files from `MINDS_2020_SCREENSHOTS`
+
+- * 1 introductory image from `RAW_GITHUB_FILES_MACRO_DIRECTORY`
+
+* **404 errors:** 0
+
+* **Incorrect repository paths:** 0
+
+* **Filename mismatches:** 0
+
+* **Duplicate raw-file links:** 0
+
+* **Repository files omitted from the 84-file inventory:** 0
+
+The 84 listed files correspond exactly, one-for-one, with the files in the archived [`MINDS_2020_SCREENSHOTS` repository](https://github.com/karlinarayberinger/MINDS_2020_SCREENSHOTS):
+
+* 1 `LICENSE` file
+
+* 41 numbered `P1_*` screenshot-page files
+
+* 1 directory/index HTML file
+
+* 41 screenshot image files
+
+One filename looks anomalous:
+
+`P1_1_MINDS_KARBYTES_2020_IMAGE_1`
+
+It lacks the `.html` extension used by the other numbered page files. However, this is the file’s actual name in GitHub, its [raw link loads successfully](https://raw.githubusercontent.com/karlinarayberinger/MINDS_2020_SCREENSHOTS/main/P1_1_MINDS_KARBYTES_2020_IMAGE_1), and its contents correctly identify `MINDS_KARBYTES_2020_IMAGE_1`. Therefore, it is unusual but not erroneous.
+
+The separate introductory [Wayback Machine image](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/wayback_machine_save_page_now_input_form_14_july_2023.png) also loads successfully.
+
+**Final determination: the micro-directory’s raw GitHub hyperlink inventory is complete and error-free.**
+
+
