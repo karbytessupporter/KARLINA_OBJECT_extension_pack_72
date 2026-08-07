@@ -712,3 +712,41 @@ karbytes:
 The results of your latest audit suggest to me that the errors you found are not sufficiently significant enough for me to correct. Hence, let's move onto the next micro-directory to audit. (It gives me peace of mind, however, to traverse each micro-directory in KARBYTES to see how badly mangled it is (because, until I had access to sufficiently powerful AI tools, I could only rely on my own comparatively faulty human discernment on such matters)).
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_12_JUNE_2023/
+
+ChatGPT:
+
+[Worked for 1m 23s]
+
+This micro-directory is only lightly incomplete, not badly mangled. Every raw hyperlink currently displayed on the [directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_12_JUNE_2023/) points to the correct existing file.
+
+[preformatted_text]
+
+| Result                    | Count |
+| ------------------------- | ----: |
+| Raw-link occurrences      |    45 |
+| Unique raw URLs           |    45 |
+| Repository-file links     |    44 |
+| Repository files          |    46 |
+| Successful HTTP responses |    45 |
+| 404 errors                |     0 |
+| Wrong-file hyperlinks     |     0 |
+| Duplicate links           |     0 |
+| Omitted repository files  |     2 |
+
+[end preformatted_text]
+
+The two omitted files are ZIP archives:
+
+* [`karlina_object_2022_starter_pack-karlina_object_2022_starter_pack_15_DECEMBER_2022.zip`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023/main/karlina_object_2022_starter_pack-karlina_object_2022_starter_pack_15_DECEMBER_2022.zip) — approximately 16.3 MB
+
+* [`karlina_object_evolution_0_pack-karlina_object_evolution_0_pack_final_11_june_2023.zip`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023/main/karlina_object_evolution_0_pack-karlina_object_evolution_0_pack_final_11_june_2023.zip) — approximately 3.75 MB
+
+The page completely covers the repository’s `LICENSE` and all 43 HTML files. The separate Wayback Machine header image also works correctly.
+
+**Final determination:** every displayed link is valid and accurately targeted. The only discrepancy is the omission of two downloadable archive bundles, which is relatively minor for a legacy micro-directory.
+
+karbytes:
+
+Because .zip files cannot be saved to the WayBack Machine (as far as I know), I decided that adding links to those .zip files in the respective micro-directory is not worth it. Hence, let's move onto the next micro-directory to audit.
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_2/
