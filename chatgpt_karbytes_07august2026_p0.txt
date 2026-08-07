@@ -665,3 +665,44 @@ Because the PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022 micro-directory seems like ano
 Now let's proceed with the next micro-directory audit (which technically should have been performed before the PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022 micro-directory audit).
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_primary_website_copy_23_october_2022/
+
+ChatGPT:
+
+[Worked for 1m 12s]
+
+Every raw hyperlink currently displayed on the [23 October directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_primary_website_copy_23_october_2022/) matches an existing GitHub file. However, the repository inventory is incomplete and contains one duplicate.
+
+[preformatted_text]
+
+| Result                       | Count |
+| ---------------------------- | ----: |
+| Raw-link occurrences         |   120 |
+| Unique raw URLs              |   119 |
+| Unique repository-file links |   118 |
+| Repository files             |   122 |
+| 404 paths found              |     0 |
+| Wrong-file hyperlinks        |     0 |
+| Omitted repository files     |     4 |
+| Duplicate links              |     1 |
+
+[end preformatted_text]
+
+### Omitted files
+
+* `alert_sound_effect.wav`
+
+* [`count_down_timer.js`](https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/count_down_timer.js)
+
+* `drumz_karbytes_10_july_2022.mp3`
+
+* `frogs_croaking_24_august_2021.mp3`
+
+### Duplicate
+
+`count_down_timer.html` appears twice. The second occurrence may have been intended to link to `count_down_timer.js`; replacing it would correct the duplicate and one omission simultaneously.
+
+The page uses uppercase `PRIMARY_WEBSITE_COPY_23_OCTOBER_2022` in its raw URLs even though the repository is styled lowercase. GitHub resolves that capitalization successfully, so it is not an error. URL-encoded commas in the circuit-image filenames also resolve correctly.
+
+Given its legacy status, the smallest meaningful repair would be changing one duplicated `count_down_timer.html` link to `count_down_timer.js`. The three absent audio files can remain documented audit findings if exhaustive completeness is not worthwhile.
+
+**Final determination:** no displayed link is broken or wrongly targeted, but the surface inventory omits four files and duplicates one.
