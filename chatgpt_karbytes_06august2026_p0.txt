@@ -2040,3 +2040,38 @@ The only repetition is:
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_instagram_karbytes_2024/
+
+ChatGPT:
+
+[Worked for 2m 26s]
+
+Yes. The [INSTAGRAM_KARBYTES_2024 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_instagram_karbytes_2024/) passes the complete audit.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |   315 |
+| Distinct raw URLs               |   315 |
+| HTTP 200                        |   315 |
+| HTTP 404                        |     0 |
+| Wrong targets                   |     0 |
+| Redirects                       |     0 |
+| Duplicate links                 |     0 |
+| Displayed-URL/`href` mismatches |     0 |
+
+[end preformatted_text]
+
+Of those links:
+
+* 314 point to files in `INSTAGRAM_KARBYTES_2024/main`.
+
+* One points to the valid decorative image in `RAW_GITHUB_FILES_MACRO_DIRECTORY`.
+
+* The [repository at commit 0d339f2](https://github.com/karlinarayberinger/INSTAGRAM_KARBYTES_2024/commit/0d339f2bcd7d2830f52972df839469f44876474f) contains exactly 314 files, all represented exactly once.
+
+**Final verdict: every raw GitHub hyperlink is valid, correctly targeted, nonduplicated, and complete.**
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_13/
