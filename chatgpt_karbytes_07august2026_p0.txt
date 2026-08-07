@@ -101,3 +101,17 @@ The repository confirms that the correct file is a 6.56-megabyte PNG, and the re
 All other raw links—including the separate introductory Wayback Machine image—match existing GitHub files.
 
 **Final determination:** replace the `RAW_GITHUB_FILES_MACRO_DIRECTORY/...jpg` hyperlink with the `KARBYTES_BRAND_IMAGES_2021/...png` hyperlink shown above.
+
+karbytes:
+
+I decided to place the image which was identified as not being in the GitHub repository named KARBYTES_BRAND_IMAGES_2021 inside of the GitHub repository named KARLINA_OBJECT_extension_pack_72 and then make the directory web page of the KARBYTES_BRAND_IMAGES_2021 link to that image which was added to KARLINA_OBJECT_extension_pack_72.
+
+ChatGPT:
+
+[Worked for 16s]
+
+Understood. That changes the link from an accidental repository mismatch into an intentional cross-repository reference.
+
+The image can now legitimately point to its copy in `KARLINA_OBJECT_extension_pack_72`, provided the raw URL uses that repository’s exact filename. However, the directory page’s statement that every listed file belongs to `KARBYTES_BRAND_IMAGES_2021` is no longer literally accurate. For maximum precision, you could label that link as an intentional external or supplemental file.
+
+Also, `redwoods_east_oakland_18_april_2021.png` remains an actual file in `KARBYTES_BRAND_IMAGES_2021`. If the directory is intended to inventory every file in that repository, its PNG raw link should remain listed in addition to the supplemental image hosted in extension pack 72.
