@@ -2110,3 +2110,40 @@ Of those links:
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_12/
+
+ChatGPT:
+
+[Worked for 1m 16s]
+
+Every raw hyperlink currently present on the [extension-pack-12 micro-directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_12/) works and points to the correct file. However, the page contains one duplicate and omits one repository file.
+
+[preformatted_text]
+
+| Audit result                    | Count |
+| ------------------------------- | ----: |
+| Raw-link occurrences            |    46 |
+| Distinct raw URLs               |    45 |
+| HTTP 200                        |    45 |
+| HTTP 404                        |     0 |
+| Wrong targets                   |     0 |
+| Redirects                       |     0 |
+| Displayed-URL/`href` mismatches |     0 |
+| Duplicate occurrence            |     1 |
+
+[end preformatted_text]
+
+### Duplicate link
+
+This file is listed twice:
+
+* [chatgpt_describes_its_experimental_memory_feature_30april2024.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_describes_its_experimental_memory_feature_30april2024.txt)
+
+Both occurrences work, but one should be removed for a strictly one-link-per-file directory.
+
+### Omitted file
+
+The [repository at commit 5234356](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/commit/5234356a81817dbfea07e8be8aee46b9dc16db68) contains 45 files, while the page represents only 44 distinct repository files. This PNG is absent:
+
+* [pre_karbytes_karbytez_gravatar_associated_with_algorithmics_dot_wordpress_dot_com_blog_downloaded_by_karbytes_on_29april2024.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/pre_karbytes_karbytez_gravatar_associated_with_algorithmics_dot_wordpress_dot_com_blog_downloaded_by_karbytes_on_29april2024.png) — HTTP 200.
+
+**Verdict: all existing hyperlinks are valid and correctly targeted, but one duplicate should be removed and the omitted PNG should be added.**
