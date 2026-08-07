@@ -142,3 +142,29 @@ Thus, your newly intended raw URL should be:
 [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/redwoods_east_oakland_18_april_2021.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/redwoods_east_oakland_18_april_2021.jpg)
 
 The publicly retrievable version of the [directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021/) still showed the older `RAW_GITHUB_FILES_MACRO_DIRECTORY/...jpg` destination during my check, so your WordPress revision may not yet have been saved or propagated.
+
+karbytes:
+
+I updated the web page named raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021 such that the hyperlink which used to point to redwoods_east_oakland_18_april_2021.jpg externally to the GitHub repository named KARBYTES_BRAND_IMAGES_2021 now points to the PNG version of that image inside of the GitHub repository named KARBYTES_BRAND_IMAGES_2021. The updated source code of raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021 is inside of the micro-directory named raw_github_files_directory_KARLINA_OBJECT_extension_pack_72.
+
+ChatGPT:
+
+[Worked for 7s]
+
+That resolves the discrepancy cleanly.
+
+The directory now points to the repository’s actual file:
+
+[`KARBYTES_BRAND_IMAGES_2021/main/redwoods_east_oakland_18_april_2021.png`](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021/main/redwoods_east_oakland_18_april_2021.png)
+
+Consequently:
+
+* The nonexistent `KARBYTES_BRAND_IMAGES_2021/...jpg` path is not used.
+
+* The external JPG is no longer substituted for a repository file.
+
+* The directory once again functions as an exact inventory of `KARBYTES_BRAND_IMAGES_2021`.
+
+* The updated directory-page source is preserved through `raw_github_files_directory_KARLINA_OBJECT_extension_pack_72`.
+
+This is the most internally consistent correction.
