@@ -168,3 +168,45 @@ Consequently:
 * The updated directory-page source is preserved through `raw_github_files_directory_KARLINA_OBJECT_extension_pack_72`.
 
 This is the most internally consistent correction.
+
+karbytes:
+
+Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0/
+
+ChatGPT:
+
+[Worked for 2m 48s]
+
+Yes. Every raw GitHub hyperlink on the [`MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0` directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0/) points to the correct existing file.
+
+Audit results:
+
+* **11 unique raw GitHub hyperlinks**
+
+- * 10 files from [`MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0`](https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0)
+
+- * 1 introductory Wayback Machine image
+
+* **Successful HTTP responses:** 11
+
+* **404 errors:** 0
+
+* **Wrong-file or wrong-repository substitutions:** 0
+
+* **Missing repository files:** 0
+
+* **Duplicate raw-file links:** 0
+
+The 10-file repository inventory is complete:
+
+* 1 `LICENSE` file
+
+* 2 HTML files
+
+* 5 JPEG images
+
+* 2 PNG images
+
+The returned content types also match the filename extensions: the `.jpeg` links return JPEG images, the `.png` links return PNG images, and the HTML and license files return text content. The separate Wayback Machine header image also returns a valid PNG.
+
+**Final determination: the micro-directory’s raw GitHub hyperlink inventory is complete, accurate, and free of broken links.**
