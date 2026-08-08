@@ -912,3 +912,12 @@ ChatGPT:
 [Worked for 8s]
 
 Understood. For the upcoming legacy audits, I’ll focus on identifying missing repository-file links without assuming that you intend to repair the surface pages. I’ll follow the explicit scope and reporting format in your next prompt.
+
+karbytes:
+
+In the following micro-directory surface page, determine whether or not there are any broken links, duplicate links, or misnamed links. Generate a list of URLs to any files which are in that micro-directory's respective GitHub repository but not adequately linked to by the surface page.
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_0/
+
+(The idea I have with this is that I'll consolidate all of the "missing file" URLs into a single document so that those URLs can be converted into hyperlinks).
+
