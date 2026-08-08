@@ -2708,3 +2708,183 @@ None.
 All 102 files in the [KARBYTES_BLOG_APPS_github_hosted_website repository](https://github.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/). No duplicate file hyperlinks were found.
 
 The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/
+
+ChatGPT:
+
+[Worked for 32s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 77 repository files are accessible through valid surface-page hyperlinks. Nine valid URLs each appear twice:
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_38_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_38_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_39_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_39_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_42_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_9.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_42_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_9.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_43_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_10.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_43_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_10.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_44_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_44_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_45_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_12.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_45_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_12.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_48_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_15.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_48_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_15.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_49_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_16.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_49_raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_16.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_4_raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/main/P6_4_raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1.html)
+
+The separate macro-directory header-image link is valid.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_TEMPLATE_micro_directory/
+
+ChatGPT:
+
+[Worked for 29s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 39 repository files are accessible through valid surface-page hyperlinks. One valid URL appears twice:
+
+[https://raw.githubusercontent.com/karlinarayberinger/TEMPLATE_micro_directory/main/wayback_machine_save_page_now_input_form_14_july_2023.png](https://raw.githubusercontent.com/karlinarayberinger/TEMPLATE_micro_directory/main/wayback_machine_save_page_now_input_form_14_july_2023.png)
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_the_big_green_thing_2025/
+
+ChatGPT:
+
+[Worked for 34s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 199 files in the [the_big_green_thing_2025 repository](https://github.com/karlinarayberinger/the_big_green_thing_2025) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_the_big_green_thing_2025/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_reference_human_genome_fasta_hg38/
+
+ChatGPT:
+
+[Worked for 34s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 191 files in the [reference_human_genome_fasta_hg38 repository](https://github.com/karlinarayberinger/reference_human_genome_fasta_hg38) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_reference_human_genome_fasta_hg38/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_0/
+
+ChatGPT:
+
+[Worked for 30s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 995 files in the [karbytes_human_genome_fasta_part_0 repository](https://github.com/karlinarayberinger/karbytes_human_genome_fasta_part_0) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_0/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_1/
+
+ChatGPT:
+
+[Worked for 46s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 910 files in the [karbytes_human_genome_fasta_part_1 repository](https://github.com/karlinarayberinger/karbytes_human_genome_fasta_part_1) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_1/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_2/
+
+ChatGPT:
+
+[Worked for 33s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 701 files in the [karbytes_human_genome_fasta_part_2 repository](https://github.com/karlinarayberinger/karbytes_human_genome_fasta_part_2) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_2/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_3/
+
+ChatGPT:
+
+[Worked for 35s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 400 repository files are accessible through valid surface-page hyperlinks. One valid URL appears twice:
+
+[https://raw.githubusercontent.com/karlinarayberinger/karbytes_human_genome_fasta_part_3/main/unlisted_web_page_karbytes_full_genome.html](https://raw.githubusercontent.com/karlinarayberinger/karbytes_human_genome_fasta_part_3/main/unlisted_web_page_karbytes_full_genome.html)
+
+The separate header-image link points to an existing file in extension pack 31.
