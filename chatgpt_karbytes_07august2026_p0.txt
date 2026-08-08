@@ -2466,3 +2466,7 @@ None.
 All 220 files in the [KARLINA_OBJECT_extension_pack_72 repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72) are accessible through the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_72/). No duplicate raw hyperlinks were found.
 
 The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack/

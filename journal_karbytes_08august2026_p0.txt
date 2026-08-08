@@ -12,7 +12,7 @@ relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/K
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_0 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_0 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/karbytes_19_august_2023.txt
 
@@ -20,25 +20,25 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_1 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_1 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_2 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_2 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/karbytes_drums_20_october_2023.mp3
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_3 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_3 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karlina_object_updates.txt
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_4 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_4 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_4/main/CONSCIOUSNESS.html
 
@@ -46,73 +46,73 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_5 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_5 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_6 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_6 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_7 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_7 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_8 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_8 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_9 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_9 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_10 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_10 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_11 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_11 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_12 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_12 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_13 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_13 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_14 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_14 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_15 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_15 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_16 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_16 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_24june2024_p7_(menlo_park).jpg
 
@@ -124,283 +124,283 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_17 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_17 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_18 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_18 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_19 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_19 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_20 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_20 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_21 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_21 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_22 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_22 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_23 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_23 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_24 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_24 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_25 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_25 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_26 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_26 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_27 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_27 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_28 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_28 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_29 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_29 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_30 (missing micro-directory file hyperlinks)
+// Kraw_github_files_directory_ARLINA_OBJECT_extension_pack_30 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_31 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_31 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_32 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_32 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_33 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_33 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_34 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_34 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_35 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_35 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_36 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_36 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_37 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_37 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_38 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_38 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_39 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_39 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_40 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_40 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_41 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_41 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_42 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_42 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_43 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_43 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_44 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_44 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_45 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_45 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_46 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_46 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_47 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_47 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_48 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_48 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_49 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_49 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_50 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_50 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_51 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_51 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/unlisted_web_page_karbytes_kernel_31december2025.html
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_52 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_52 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/preparing_to_make_mdisc_set_on_01january2026.txt
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_53 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_53 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_53/main/preparing_to_make_mdisc_set_on_01january2026.txt
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_54 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_54 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_55 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_55 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_56 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_56 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_56/main/preparing_to_make_mdisc_set_on_01january2026.txt
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_57 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_57 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_58 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_58 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_59 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_59 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_60 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_60 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_61 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_61 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_62 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_62 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_63 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_63 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/SOFTWARE_ENGINEERING_PORTFOLIO.html
 
@@ -408,55 +408,75 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_64 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_64 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_64/main/SOFTWARE_ENGINEERING_PORTFOLIO.html
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_65 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_65 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_66 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_66 (missing micro-directory file hyperlinks)
 
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/unlisted_web_page_journal_karbytes_06june2026
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_67 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_67 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_68 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_68 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_69 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_69 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_70 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_70 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_71 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_71 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// KARLINA_OBJECT_extension_pack_72 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_72 (missing micro-directory file hyperlinks)
 
 none
+
+* * *
+
+// raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/alert_sound_effect.wav
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/coyote_vocalizations_01_july_2023.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/frogs_croaking_in_castro_valley_california_21_april_2022.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_drums_castro_valley_california_12_december_2022.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_07_june_2023.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_13_may_2023.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_castro_valley_california_12_december_2022.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_graphing.html
