@@ -125,3 +125,9 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 * * *
 
 // KARLINA_OBJECT_extension_pack_17 (missing micro-directory file hyperlinks)
+
+none
+
+* * *
+
+// KARLINA_OBJECT_extension_pack_18 (missing micro-directory file hyperlinks)
