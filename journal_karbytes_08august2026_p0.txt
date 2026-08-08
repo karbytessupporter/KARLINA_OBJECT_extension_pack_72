@@ -173,3 +173,9 @@ none
 * * *
 
 // KARLINA_OBJECT_extension_pack_25 (missing micro-directory file hyperlinks)
+
+none
+
+* * *
+
+// KARLINA_OBJECT_extension_pack_26 (missing micro-directory file hyperlinks)
