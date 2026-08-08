@@ -2628,3 +2628,83 @@ None.
 [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/trilateral.h](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/trilateral.h)
 
 The repository contains 190 files; 181 are accessible through valid surface-page file hyperlinks. No duplicate file hyperlinks were found. The separate macro-directory header-image link is valid.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/
+
+ChatGPT:
+
+[Worked for 32s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 28 files in the [KARBYTES_FOR_LIFE_BLOG repository](https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/). No duplicate file hyperlinks were found.
+
+The separate macro-directory header-image link is valid.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/
+
+ChatGPT:
+
+[Worked for 30s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 322 files in the [KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO repository](https://github.com/karlinarayberinger/KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/
+
+ChatGPT:
+
+[Worked 36s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All six files in the [karbytes_test_github_hosted_website repository](https://github.com/karlinarayberinger/karbytes_test_github_hosted_website) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/
+
+ChatGPT:
+
+[Worked 36s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 102 files in the [KARBYTES_BLOG_APPS_github_hosted_website repository](https://github.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/). No duplicate file hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.

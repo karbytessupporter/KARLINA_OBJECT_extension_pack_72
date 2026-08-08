@@ -556,3 +556,27 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/sound_t
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/sound_track_looper.js
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/trilateral.h
+
+* * *
+
+// raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG
+
+none
+
+* * *
+
+// raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO
+
+none
+
+* * *
+
+// raw_github_files_directory_karbytes_test_github_hosted_website
+
+none
+
+* * *
+
+// raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website
+
+none
