@@ -10,6 +10,8 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06august2026_a/
 
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/journal_karbytes_08august2026_p0.txt
+
 * * *
 
 karbytes:
@@ -1011,7 +1013,7 @@ The second URL appears as visible text on the page, but clicking it follows the 
 
 karbytes:
 
-Excellent! Now, for the following micro-directory,first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_1/
+Excellent! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_1/
 
 ChatGPT:
 
@@ -1031,7 +1033,7 @@ Separate note: the Wayback Machine header-image hyperlink appears twice, but bot
 
 karbytes:
 
-Superb! Now, for the following micro-directory,first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_2/
+Superb! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_2/
 
 ChatGPT:
 
@@ -1053,4 +1055,34 @@ All 85 unique raw URLs currently displayed return HTTP `200`. No duplicate raw h
 
 karbytes:
 
-Fantastic! Now, for the following micro-directory,first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_3/
+Fantastic! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_3/
+
+ChatGPT:
+
+[Worked for 50s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files inaccessible through surface-page hyperlinks
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karlina_object_updates.txt
+
+[end preformatted_text]
+
+The URL above returns HTTP `200` and is the only repository file absent from the clickable inventory.
+
+Separate note: this valid URL appears twice:
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karlina_object_winter_2023_abridged_print_page_28.txt
+
+[end preformatted_text]
+
+karbytes:
+
+Exemplary! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_4/
