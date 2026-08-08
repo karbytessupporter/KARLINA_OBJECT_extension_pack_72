@@ -848,3 +848,57 @@ karbytes:
 Alright, I added the missing link to the KARLINA_OBJECT_extension_pack_1 micro-directory surface page, removed the 404 link. Now let's proceed with the next micro-directory audit. 
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_0/
+
+ChatGPT:
+
+[Worked 1m 58s]
+
+No. The [extension pack 0 directory page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_0/) contains three 404 links, two omitted repository files, two label/target mismatches, and two duplicate links.
+
+[preformatted_text]
+
+| Result                   | Count |
+| ------------------------ | ----: |
+| Raw-link occurrences     |   139 |
+| Unique raw URLs          |   137 |
+| Successful unique URLs   |   134 |
+| 404 URLs                 |     3 |
+| Omitted repository files |     2 |
+| Label/target mismatches  |     2 |
+| Duplicate links          |     2 |
+
+[end preformatted_text]
+
+### Three 404 links
+
+* `twitter_karbytes_21_july_2023_part_1.jpg`
+
+* `twitter_karbytes_quote_on_control_25_july_2023.jpg`
+
+* `twitter_karbytes_quote_on_control_26_august_2023.jpg`
+
+For the first one, the correct repository file is:
+
+[`twitter_karbytes_21_july_2023_part_1.png`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.png)
+
+The two `quote_on_control` files dated July 25 and August 26 have no corresponding repository files. The repository contains only the July 24 Twitter and Minds versions, both of which are already represented. The two nonexistent links can therefore be removed.
+
+### Second label/target mismatch
+
+The `twitter_karbytes_21_july_2023_part_0` hyperlink correctly targets the existing `.png`, but its visible text incorrectly ends in `.jpg`. Only the displayed text needs changing.
+
+### Other omitted file
+
+[`karbytes_19_august_2023.txt`](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/karbytes_19_august_2023.txt)
+
+Correcting the `part_1` extension resolves the other omission.
+
+### Duplicate links
+
+* `kar_beringer_resume_july_2023.txt`
+
+* `karbytes_using_triangle_graphing_21_july_2023_part_2.png`
+
+Both duplicate destinations are valid. The Wayback header image also works correctly.
+
+**Final determination:** correct the `.jpg`/`.png` mismatches, remove the two nonexistent quote-image links, and add `karbytes_19_august_2023.txt` if complete coverage is desired.
