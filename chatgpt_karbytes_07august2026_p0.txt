@@ -902,3 +902,13 @@ Correcting the `part_1` extension resolves the other omission.
 Both duplicate destinations are valid. The Wayback header image also works correctly.
 
 **Final determination:** correct the `.jpg`/`.png` mismatches, remove the two nonexistent quote-image links, and add `karbytes_19_august_2023.txt` if complete coverage is desired.
+
+karbytes:
+
+Rather than attempt to update any more legacy KARBYTES micro-directory surface pages, I think it would be a better idea to systematically go through at least some of the legacy micro-directories such that you identify missing file links. I'll provide explicit instructions in the next prompt.
+
+ChatGPT:
+
+[Worked for 8s]
+
+Understood. For the upcoming legacy audits, I’ll focus on identifying missing repository-file links without assuming that you intend to repair the surface pages. I’ll follow the explicit scope and reporting format in your next prompt.
