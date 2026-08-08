@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_08august2026_p0.txt
+ * type: plain-text
+ * date: 07_AUGUST_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following list of Uniform Resource Locators (URLs) is a compilation of URLs which ChatGPT identified as being absent or improperly linked to by their respective encompassing micro-directory GitHub repositories.
+
+relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/chatgpt_karbytes_07august2026_p0.txt
+
+* * *
+
+// KARLINA_OBJECT_extension_pack_0 (missing micro-directory file hyperlinks)
