@@ -921,3 +921,90 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 
 (The idea I have with this is that I'll consolidate all of the "missing file" URLs into a single document so that those URLs can be converted into hyperlinks).
 
+ChatGPT:
+
+[Worked for 1m 24s]
+
+The [extension pack 0 surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_0/) has three broken raw links, two duplicate links, and two misnamed links. Two repository files are not adequately linked.
+
+### Missing-file URLs
+
+Copy-ready list for your consolidation document:
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/karbytes_19_august_2023.txt
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.png
+
+[end preformatted_text]
+
+The first is absent entirely. The second appears as visible text, but its actual hyperlink incorrectly targets a nonexistent `.jpg`.
+
+### Broken links
+
+These return HTTP `404`:
+
+[end preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_quote_on_control_25_july_2023.jpg
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_quote_on_control_26_august_2023.jpg
+
+[end preformatted_text]
+
+The latter two have no corresponding files in the repository and therefore do not belong in the missing-file list.
+
+### Duplicate links
+
+These valid URLs each appear twice:
+
+* `kar_beringer_resume_july_2023.txt`
+
+* `karbytes_using_triangle_graphing_21_july_2023_part_2.png`
+
+### Misnamed links
+
+* `twitter_karbytes_21_july_2023_part_0`: the `href` correctly targets `.png`, but the visible URL says `.jpg`.
+
+* `twitter_karbytes_21_july_2023_part_1`: the visible URL correctly says `.png`, but the `href` incorrectly targets `.jpg`.
+
+Thus, the two-URL block above is the complete list of repository files not adequately linked by this surface page.
+
+karbytes:
+
+For this and other micro-directories I ask you to audit for now on, first display a list of full URLs of broken or misnamed hyperlinks in the respective micro-directory web page. Then display a list of full URLs of existing files (in the respective micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the respective micro-directory web page.
+
+ChatGPT:
+
+[Worked for 23s]
+
+Understood. I’ll use that two-list order for this and subsequent audits.
+
+### 1. Broken or misnamed hyperlinks
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_0.png`
+
+- * Destination works, but its visible URL incorrectly ends in `.jpg`.
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.jpg`
+
+- * Returns 404; its visible URL correctly identifies the intended `.png`.
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_quote_on_control_25_july_2023.jpg`
+
+- * Returns 404.
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_quote_on_control_26_august_2023.jpg`
+
+- * Returns 404.
+
+### 2. Existing repository files inaccessible through surface-page hyperlinks
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/karbytes_19_august_2023.txt
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.png
+
+[end preformatted_text]
+
+The second URL appears as visible text on the page, but clicking it follows the broken `.jpg` destination instead.
