@@ -1148,3 +1148,21 @@ All 48 unique raw URLs return HTTP `200`, and all 47 files in `KARLINA_OBJECT_ex
 karbytes:
 
 Awesome! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_7/
+
+ChatGPT:
+
+[Worked for 1m 21s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files inaccessible through surface-page hyperlinks
+
+None.
+
+All 76 files in `KARLINA_OBJECT_extension_pack_7` are accessible through correctly named raw hyperlinks. No duplicate or extraneous raw links were found, and the separate Wayback Machine header-image link works correctly.
+
+karbytes:
+
+Beautiful! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_8/
