@@ -1012,3 +1012,23 @@ The second URL appears as visible text on the page, but clicking it follows the 
 karbytes:
 
 Excellent! Now, for the following micro-directory,first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_1/
+
+ChatGPT:
+
+[Worked for 1m 9s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files inaccessible through surface-page hyperlinks
+
+None.
+
+All 59 unique raw URLs return HTTP `200`, and all 58 files in `KARLINA_OBJECT_extension_pack_1` are accessible through correct surface-page hyperlinks.
+
+Separate note: the Wayback Machine header-image hyperlink appears twice, but both occurrences work correctly.
+
+karbytes:
+
+Superb! Now, for the following micro-directory,first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_2/
