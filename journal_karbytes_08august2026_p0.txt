@@ -33,3 +33,9 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 * * *
 
 // KARLINA_OBJECT_extension_pack_3 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_3/main/karlina_object_updates.txt
+
+* * *
+
+// KARLINA_OBJECT_extension_pack_4 (missing micro-directory file hyperlinks)
