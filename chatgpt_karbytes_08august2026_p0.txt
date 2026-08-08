@@ -28,6 +28,8 @@ relevant_web_page_(suggestive_imagery): https://karbytesforlifeblog.wordpress.co
 
 relevant_web_page_(context_for_suggestive_imagery): https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05august2026_a/
 
+relevant_web_page_(mapping_of_first_official_major_karbytes_hiatus): https://karbytesforlifeblog.wordpress.com/journal_karbytes_05august2026/
+
 * * *
 
 
