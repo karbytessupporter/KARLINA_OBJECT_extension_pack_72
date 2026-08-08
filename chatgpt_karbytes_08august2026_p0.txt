@@ -21,3 +21,7 @@ relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLIN
 relevant_video_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/obs_studio_recording_07august2026_p1.mp4
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06august2026_a/
+
+relevant_image_file_(featured_image_for_html_version_of_this_file): https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/chatgpt_generated_image_toroidal_lattice_30april2026_p2.png
+
+* * *
