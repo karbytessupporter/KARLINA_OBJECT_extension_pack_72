@@ -1513,7 +1513,7 @@ Alright! Now, for the following micro-directory, first display a list of full UR
 
 ChatGPT:
 
-[Worked for 39s]
+[Worked for 34s]
 
 ### 1. Broken or misnamed hyperlinks
 
@@ -1530,3 +1530,23 @@ All 122 repository files are accessible through the [surface page](https://karby
 karbytes:
 
 Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_27/
+
+ChatGPT:
+
+[Worked for 32s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 158 repository files are accessible through the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_27/). However, one URL appears twice:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/wayback_machine_save_page_now_input_form_14_july_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_27/main/wayback_machine_save_page_now_input_form_14_july_2023.png)
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_28/
