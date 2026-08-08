@@ -480,3 +480,79 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_castro_valley_california_12_december_2022.mp3
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_graphing.html
+
+* * *
+
+// raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_graphing_html_code_screenshot.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_graphing_web_page_interface_after_clicking_generate_button.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_graphing_web_page_interface_after_clicking_reset_button.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_graphing_web_page_interface_after_selecting_input_values.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_image.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/trilateral.cpp
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/trilateral.h
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/word_counter_html_code_screenshot.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/word_counter_interface_final.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/word_counter_interface_initial.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/word_counter_interface_progress.png
+
+* * *
+
+// raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/base_converter.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/base_converter_arithmetic.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/base_converter_interface.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/bordered_container.css
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/determinism_flowchart_diagram.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/karbytes_guitar_16_october_2023.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/probability.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/probability.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/sound_track_looper.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/sound_track_looper.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/trilateral.h
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/word_counter.js
+
+* * *
+
+// raw_github_files_directory_KARLINA_OBJECT
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/base_converter.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/base_converter_arithmetic.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/base_converter_interface.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/bordered_container.css
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/probability.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/probability.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/sound_track_looper.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/sound_track_looper.js
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/trilateral.h
