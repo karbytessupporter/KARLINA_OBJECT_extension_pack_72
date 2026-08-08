@@ -1310,3 +1310,39 @@ All 38 files in `KARLINA_OBJECT_extension_pack_15` are accessible through correc
 karbytes:
 
 Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_16/
+
+ChatGPT:
+
+[Worked for 1m 30s]
+
+### 1. Broken or misnamed hyperlinks
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_24june2024_p23_(stanford_palo_alto).jpg`
+
+- * The destination works, but its visible URL has a duplicated raw-GitHub prefix.
+
+* `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_tour_22june2024_p22.jpg`
+
+- * The destination works, but one occurrence is visibly labeled as `baylands_tour_22june2024_p20.jpg`. This also duplicates the valid `p22` hyperlink.
+
+No hyperlink destination returns 404.
+
+### 2. Existing repository files inaccessible through surface-page hyperlinks
+
+[preformatted_text]
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_24june2024_p7_(menlo_park).jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_24june2024_p8_(menlo_park).jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_24june2024_p9_(menlo_park).jpg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_16/main/baylands_tour_22june2024_p20.jpg
+
+[end preformatted_text]
+
+All four canonical URLs return HTTP `200` with JPEG content.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_17/
