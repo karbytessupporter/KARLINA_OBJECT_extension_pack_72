@@ -2020,3 +2020,137 @@ The separate header-image link points to an existing file in extension pack 31.
 karbytes:
 
 Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_51/
+
+ChatGPT:
+
+[Worked for 43s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/unlisted_web_page_karbytes_kernel_31december2025.html](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/unlisted_web_page_karbytes_kernel_31december2025.html)
+
+The repository contains 88 files, but the surface page links to only 87 of them. No duplicate raw hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_52/
+
+ChatGPT:
+
+[Worked for 39s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/preparing_to_make_mdisc_set_on_01january2026.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/preparing_to_make_mdisc_set_on_01january2026.txt)
+
+The repository contains 43 files, but the surface page links to only 42 of them. No duplicate raw hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_53/
+
+ChatGPT:
+
+[Worked for 42s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_53/main/preparing_to_make_mdisc_set_on_01january2026.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_53/main/preparing_to_make_mdisc_set_on_01january2026.txt)
+
+The repository contains 67 files, but the surface page links to only 66 of them. No duplicate raw hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_54/
+
+ChatGPT:
+
+[Worked for 31s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 62 files in the [KARLINA_OBJECT_extension_pack_54 repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_54) are accessible through the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_54/). No duplicate raw hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_55/
+
+ChatGPT:
+
+[Worked for 35s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 51 files in the [KARLINA_OBJECT_extension_pack_55 repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_55) are accessible through the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_55/). No duplicate raw hyperlinks were found.
+
+The separate header-image link points to an existing file in extension pack 31.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_56/
+
+ChatGPT:
+
+[Worked for 44s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_56/main/preparing_to_make_mdisc_set_on_01january2026.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_56/main/preparing_to_make_mdisc_set_on_01january2026.txt)
+
+The repository contains 96 files, but the surface page links to only 95 of them. No duplicate raw hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_57/
+
+ChatGPT:
+
+[Worked for 57s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_”anonymous”_profile_pinned_repositories_updated_[not_signed_in_as_informationcrystals]_14february2026.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_”anonymous”_profile_pinned_repositories_updated_[not_signed_in_as_informationcrystals]_14february2026.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_”anonymous”_profile_pinned_repositories_updated_[signed_in_as_informationcrystals]_14february2026.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_”anonymous”_profile_pinned_repositories_updated_[signed_in_as_informationcrystals]_14february2026.png)
+
+Both displayed URLs use curly quotation marks around `anonymous` and return HTTP 404. Their clickable hyperlink targets correctly use straight quotation marks and return HTTP 200:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_"anonymous"_profile_pinned_repositories_updated_[not_signed_in_as_informationcrystals]_14february2026.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_%22anonymous%22_profile_pinned_repositories_updated_[not_signed_in_as_informationcrystals]_14february2026.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_"anonymous"_profile_pinned_repositories_updated_[signed_in_as_informationcrystals]_14february2026.png](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/main/github_karbytes_%22anonymous%22_profile_pinned_repositories_updated_[signed_in_as_informationcrystals]_14february2026.png)
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 64 repository files are accessible by clicking the surface-page hyperlinks. No duplicate raw hyperlinks were found.
