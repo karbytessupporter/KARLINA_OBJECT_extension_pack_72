@@ -13,3 +13,11 @@ relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/K
 * * *
 
 // KARLINA_OBJECT_extension_pack_0 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/karbytes_19_august_2023.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/twitter_karbytes_21_july_2023_part_1.png
+
+* * *
+
+// KARLINA_OBJECT_extension_pack_1 (missing micro-directory file hyperlinks)
