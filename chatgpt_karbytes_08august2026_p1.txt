@@ -319,3 +319,118 @@ The servers themselves also move with Earth’s rotation and orbit, but that mot
 So the most precise synthesis is:
 
 > **In the interface, “work” means elapsed task-directed computation and coordination. In physics, that computation is realized through electromagnetic energy transfer, microscopic charge displacement, transistor switching, thermal vibration, and cooling-system motion. The former is reported in seconds; the latter would have to be measured in joules, and the interface does not provide enough information to calculate it.**
+
+karbytes:
+
+In your latest output, define the variables used in the equations.
+
+ChatGPT:
+
+Definitions for every variable and symbol used:
+
+### Mechanical work
+
+[preformatted_text]
+
+[
+W=\int_{\gamma}\mathbf F\cdot d\mathbf r
+]
+
+[end preformatted_text]
+
+* (W): mechanical work, measured in joules ((\mathrm J)).
+
+* (\mathbf F): force vector acting at a point, measured in newtons ((\mathrm N)).
+
+* (d\mathbf r): infinitesimal spatial-displacement vector of the force’s point of application, measured in meters ((\mathrm m)).
+
+* (\mathbf F\cdot d\mathbf r): dot product; only the component of force parallel to the displacement contributes to work.
+
+* (\gamma): the spatial path along which the point of application moves.
+
+* (\int_{\gamma}): integration over the entire path (\gamma).
+
+For constant force parallel to motion:
+
+[preformatted_text]
+
+[
+W=Fd
+]
+
+[end preformatted_text]
+
+* (F): magnitude of the constant force, in newtons.
+
+* (d): distance traveled in the force’s direction, in meters.
+
+* (W): work, with (\mathrm{N,m}=\mathrm J).
+
+### Electrical work and energy
+
+[preformatted_text]
+
+[
+W_{\text{electrical}}=\int V(t)I(t),dt
+=\int P(t),dt
+]
+
+[end preformatted_text]
+
+* (W_{\text{electrical}}): electrical energy transferred or electrical work performed, in joules.
+
+* (t): time, in seconds ((\mathrm s)).
+
+* (dt): infinitesimal time interval.
+
+* (V(t)): voltage, or electric potential difference, at time (t), in volts ((\mathrm V)).
+
+* (I(t)): electric current at time (t), in amperes ((\mathrm A)).
+
+* (P(t)): electrical power at time (t), in watts ((\mathrm W)), where (P(t)=V(t)I(t)).
+
+* (\int): accumulation of the instantaneous power over the relevant time interval.
+
+### Energy attributable to a task
+
+[preformatted_text]
+
+[
+E_{\text{task}}\approx\int_{t_0}^{t_1}P_{\text{incremental}}(t),dt
+]
+
+[end preformatted_text]
+
+* (E_{\text{task}}): estimated energy attributable to the particular ChatGPT task, in joules.
+
+* (t_0): task interval’s starting time.
+
+* (t_1): task interval’s ending time.
+
+* (t_1-t_0): elapsed wall-clock duration.
+
+* (P_{\text{incremental}}(t)): additional instantaneous power consumption attributable to the task, above the system’s counterfactual power consumption without that task.
+
+* (\approx): “approximately equal to,” acknowledging that energy attribution is uncertain when infrastructure is shared.
+
+* (\int_{t_0}^{t_1}): integration from the starting time through the ending time.
+
+### Capacitor energy
+
+[preformatted_text]
+
+[
+E_{\text{stored}}=\frac{1}{2}CV^2
+]
+
+[end preformatted_text]
+
+* (E_{\text{stored}}): energy stored in the capacitor’s electric field, in joules.
+
+* (C): capacitance, measured in farads ((\mathrm F)).
+
+* (V): voltage across the capacitor, in volts.
+
+* (V^2): the voltage multiplied by itself.
+
+* (\frac{1}{2}): numerical factor arising from the voltage increasing from zero to (V) while the capacitor is charged.
