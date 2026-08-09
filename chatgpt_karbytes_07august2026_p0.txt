@@ -3334,3 +3334,177 @@ These URLs return HTTP 200, but they point to JPG files in `RAW_GITHUB_FILES_MAC
 [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_5/main/minds_karbytes_25_augusts_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_5/main/minds_karbytes_25_augusts_2022_part_0.png)
 
 The repository contains 30 files; 28 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_6/
+
+ChatGPT:
+
+[Worked for 1m 10s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_74.html](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_74.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_04_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_04_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_27_august_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_27_august_2022_part_0.jpg)
+
+These URLs return HTTP 200 but target files in `RAW_GITHUB_FILES_MACRO_DIRECTORY`, not files in `KARBYTES_JOURNAL_2022_PART_6`. The two image links also substitute JPG files for the repository’s PNG files.
+
+The repository itself contains the unusually named `P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_72.html`, whereas the external substitute is named `...ENTRY_74.html`.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_72.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_72.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/minds_karbytes_04_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/minds_karbytes_04_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/minds_karbytes_27_august_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/minds_karbytes_27_august_2022_part_0.png)
+
+The repository contains 47 files; 44 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_7/
+
+ChatGPT:
+
+[Worked for 51s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_04_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_04_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_01_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_01_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_09_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_09_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_11_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_11_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_august_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_august_2022_part_0.jpg)
+
+These URLs return HTTP 200, but they target JPG files in `RAW_GITHUB_FILES_MACRO_DIRECTORY` rather than the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_7`.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/instagram_karbytes_04_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/instagram_karbytes_04_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_01_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_01_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_09_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_09_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_11_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_11_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_12_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_12_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_12_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_12_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_30_august_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/minds_karbytes_30_august_2022_part_0.png)
+
+The repository contains 62 files; 55 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_8/
+
+ChatGPT:
+
+[Worked for 54s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_modernizing_spirituality_22_april_2014.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_modernizing_spirituality_22_april_2014.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_natures_poetry_the_fibonacci_sequence_30_march_2014.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_natures_poetry_the_fibonacci_sequence_30_march_2014.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_raising_butterflies_24_may_2014.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/pumpkin_programmer_raising_butterflies_24_may_2014.jpg)
+
+These URLs return HTTP 200 but target JPG files in `RAW_GITHUB_FILES_MACRO_DIRECTORY`, rather than the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_8`.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_13_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_13_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_13_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_13_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_14_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_14_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_14_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_14_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_modernizing_spirituality_22_april_2014.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_modernizing_spirituality_22_april_2014.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_natures_poetry_the_fibonacci_sequence_30_march_2014.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_natures_poetry_the_fibonacci_sequence_30_march_2014.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_raising_butterflies_24_may_2014.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/pumpkin_programmer_raising_butterflies_24_may_2014.png)
+
+The repository contains 36 files; 29 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_9/
+
+ChatGPT:
+
+[Worked for 46s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_september_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_september_2022_part_1.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_september_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_september_2022_part_0.jpg)
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_september_2022_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_september_2022_part_2.jpg)
+
+These URLs return HTTP 200 but target JPG files in `RAW_GITHUB_FILES_MACRO_DIRECTORY`, rather than the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_9`.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_15_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_15_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_15_september_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_15_september_2022_part_1.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_16_september_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_16_september_2022_part_0.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_16_september_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_16_september_2022_part_2.png)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/torus_volume_integral_drawing_15_september_2022.jpeg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/torus_volume_integral_drawing_15_september_2022.jpeg)
+
+The repository contains 36 files; 31 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_10/
+
+ChatGPT:
+
+[Worked for 35s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 23 files in the [KARBYTES_JOURNAL_2022_PART_10 repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_10) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_10/). No duplicate file hyperlinks were found.
+
+The separate macro-directory header-image link is valid.
+
+
