@@ -3248,3 +3248,66 @@ These URLs return HTTP 200, but they point to JPG files in `RAW_GITHUB_FILES_MAC
 The repository contains 25 files; 23 are accessible through hyperlinks targeting the correct repository files. One valid URL appears twice:
 
 [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_1/main/twitter_karbytes_14_august_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_1/main/twitter_karbytes_14_august_2022_part_0.png)
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2/
+
+ChatGPT:
+
+[Worked for 38s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All 12 files in the [KARBYTES_JOURNAL_2022_PART_2 repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_2) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2/). No duplicate file hyperlinks were found.
+
+The separate macro-directory header-image link is valid.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_3/
+
+ChatGPT:
+
+[Worked for 46s]
+
+### 1. Broken or misnamed hyperlinks
+
+[https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_21_august_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_21_august_2022_part_0.jpg)
+
+This URL returns HTTP 200, but it points to a JPG file in `RAW_GITHUB_FILES_MACRO_DIRECTORY` rather than the corresponding PNG file in `KARBYTES_JOURNAL_2022_PART_3`.
+
+### 2. Existing repository files not accessible through the surface page
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3/main/P5_3_KARBYTES_JOURNAL_2022_PART_3.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3/main/P5_3_KARBYTES_JOURNAL_2022_PART_3.html)
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3/main/minds_karbytes_21_august_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3/main/minds_karbytes_21_august_2022_part_0.png)
+
+The repository contains 17 files; 15 are accessible through hyperlinks targeting the correct repository files. No duplicate file hyperlinks were found.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4/
+
+ChatGPT:
+
+[Worked for 40s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through the surface page
+
+None.
+
+All seven files in the [KARBYTES_JOURNAL_2022_PART_4 repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_4) are accessible through valid hyperlinks on the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4/). No duplicate file hyperlinks were found.
+
+The separate macro-directory header-image link is valid.
+
