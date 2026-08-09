@@ -2192,7 +2192,7 @@ The first omitted URL is identified as the raw text file `karbytes_19_august_202
 
 The page’s first table maps the existing twelve sub-indexes onto the suffix of page B:
 
-[reformatted_text]
+[preformatted_text]
 
 | Sub-indexes | Number of URLs |    Page-B coverage |
 | ----------- | -------------: | -----------------: |
