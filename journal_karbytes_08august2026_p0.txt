@@ -204,7 +204,7 @@ none
 
 * * *
 
-// Kraw_github_files_directory_ARLINA_OBJECT_extension_pack_30 (missing micro-directory file hyperlinks)
+// raw_github_files_directory_ARLINA_OBJECT_extension_pack_30 (missing micro-directory file hyperlinks)
 
 none
 
@@ -465,7 +465,7 @@ none
 
 * * *
 
-// raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack
+// raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/alert_sound_effect.wav
 
@@ -485,7 +485,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_
 
 * * *
 
-// raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack
+// raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack/main/triangle_graphing_html_code_screenshot.png
 
@@ -511,7 +511,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_
 
 * * *
 
-// raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack
+// raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack/main/base_converter.html
 
@@ -539,7 +539,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_
 
 * * *
 
-// raw_github_files_directory_KARLINA_OBJECT
+// raw_github_files_directory_KARLINA_OBJECT (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/base_converter.html
 
@@ -561,91 +561,91 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/trilate
 
 * * *
 
-// raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG
+// raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO
+// raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_test_github_hosted_website
+// raw_github_files_directory_karbytes_test_github_hosted_website (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website
+// raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories
+// raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_TEMPLATE_micro_directory
+// raw_github_files_directory_TEMPLATE_micro_directory (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_the_big_green_thing_2025
+// raw_github_files_directory_the_big_green_thing_2025 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_reference_human_genome_fasta_hg38
+// raw_github_files_directory_reference_human_genome_fasta_hg38 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_human_genome_fasta_part_0
+// raw_github_files_directory_karbytes_human_genome_fasta_part_0 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_human_genome_fasta_part_1
+// raw_github_files_directory_karbytes_human_genome_fasta_part_1 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_human_genome_fasta_part_2
+// raw_github_files_directory_karbytes_human_genome_fasta_part_2 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_human_genome_fasta_part_3
+// raw_github_files_directory_karbytes_human_genome_fasta_part_3 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_karbytes_23AndMe_Ancestry_Data
+// raw_github_files_directory_karbytes_23AndMe_Ancestry_Data (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022
+// raw_github_files_directory_PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_6_NUMBERS_COPY.html
 
 * * *
 
-// raw_github_files_directory_PRIMARY_WEBSITE_COPY_23_OCTOBER_2022
+// raw_github_files_directory_PRIMARY_WEBSITE_COPY_23_OCTOBER_2022 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/alert_sound_effect.wav
 
@@ -657,7 +657,7 @@ https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCT
 
 * * *
 
-// raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022
+// raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P0_START_PAGE_15_NOVEMBER_2022_COPY.html
 
@@ -677,7 +677,7 @@ https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOV
 
 * * *
 
-// raw_github_files_directory_KARLINA_OBJECT_12_JUNE_2023
+// raw_github_files_directory_KARLINA_OBJECT_12_JUNE_2023 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023/main/karlina_object_2022_starter_pack-karlina_object_2022_starter_pack_15_DECEMBER_2022.zip
 
@@ -685,13 +685,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023
 
 * * *
 
-// raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES
+// raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES/main/instagram_karbytes_29_august_2022_part_0.png
 
 * * *
 
-// raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW
+// raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW/main/karlina_object_wordpress_logo_orange_box_drawing_2020.png
 
@@ -699,43 +699,43 @@ https://raw.githubusercontent.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021
+// raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_MINDS_2020_SCREENSHOTS
+// raw_github_files_directory_MINDS_2020_SCREENSHOTS (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0
+// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1
+// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2
+// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3
+// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_0
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_0 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0/main/P5_0_5_KARBYTES_JOURNAL_2022_ENTRY_5.html
 
@@ -747,7 +747,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_1
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_1 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_1/main/minds_karbytes_15_august_2022_part_0.png
 
@@ -755,13 +755,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_3
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_3 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3/main/P5_3_KARBYTES_JOURNAL_2022_PART_3.html
 
@@ -769,13 +769,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_5
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_5 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_5/main/minds_karbytes_24_august_2022_part_1.png
 
@@ -783,7 +783,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_6
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_6 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6/main/P5_6_22_KARBYTES_JOURNAL_2022_ENTRY_72.html
 
@@ -793,7 +793,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_7
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_7 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7/main/instagram_karbytes_04_september_2022_part_0.png
 
@@ -811,7 +811,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_8
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_8 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8/main/minds_karbytes_13_september_2022_part_0.png
 
@@ -829,7 +829,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_9
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_9 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9/main/minds_karbytes_15_september_2022_part_0.png
 
@@ -843,13 +843,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_10
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_10 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_11
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_11 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_11/main/karlina_object_dot_wordpress_dot_com_donation_paypal_page_21_september_2022.png
 
@@ -863,7 +863,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_12
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_12 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_12/main/creator_restaurant_in_fremont_california_details_28_september_2022.png
 
@@ -875,7 +875,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_13
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_13 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_13/main/P5_13_KARBYTES_JOURNAL_2022_PART_13.html
 
@@ -887,7 +887,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_03_october_2022_part_0.png
 
@@ -907,7 +907,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/instagram_karbytes_05_october_2022_part_1.png
 
@@ -919,7 +919,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html
 
@@ -943,7 +943,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16B
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16B (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/instagram_karbytes_22_october_2022_part_2.png
 
@@ -981,7 +981,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16C
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16C (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html
 
@@ -1017,7 +1017,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16D
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16D (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/facebook_karbytes_15_december_2022_part_0.png
 
@@ -1049,7 +1049,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_0
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_0 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_0/main/instagram_karbytes_19_december_2022_part_3.png
 
@@ -1057,7 +1057,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_1
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_1 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_1/main/digitally_enhanced_drawing_26_december_2022_part_0.jpeg
 
@@ -1077,7 +1077,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_2
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_2 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_2/main/P7_2_7_KARBYTES_JOURNAL_2023_ENTRY_43.html
 
@@ -1091,7 +1091,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_3
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_3 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_3/main/instagram_karbytes_03_january_2023_part_13.png
 
@@ -1109,13 +1109,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_4
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_4 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_5/main/minds_karbytes_08_january_2023_part_0.png
 
@@ -1123,25 +1123,25 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_6/main/instagram_karbytes_13_january_2023_part_0.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_7
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_7 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_7/main/minds_karbytes_14_january_2023_part_0.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_8
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_8 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_8/main/P1_8_6_KARBYTES_JOURNAL_2023_ENTRY_97.html
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_9
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_9 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_9/main/P1_9_KARBYTES_JOURNAL_2023_PART_9.html
 
@@ -1155,13 +1155,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_10
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_10 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_10/main/instagram_karbytes_10_february_2023_part_0.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_11/main/instagram_karbytes_17_february_2023_part_0.png
 
@@ -1169,7 +1169,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_12
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_12 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_12/main/instagram_karbytes_04_march_2023_part_2.png
 
@@ -1213,7 +1213,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_13
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_13 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_13/main/P1_13_KARBYTES_JOURNAL_2023_PART_13.html
 
@@ -1241,13 +1241,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_14/main/minds_karbytes_16_march_2023_part_0.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_15
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_15 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_15/main/P1_KARBYTES_JOURNAL_2023_POST_BIRTHDAY.html
 
@@ -1255,7 +1255,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_16
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_16 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_16/main/instagram_karbytes_18_march_2023_part_1.png
 
@@ -1265,13 +1265,13 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_17
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_17 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_17/main/P1_KARBYTES_JOURNAL_2023_POST_BIRTHDAY.html
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_18
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_18 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_18/main/P1_18_KARBYTES_JOURNAL_2023_PART_18.html
 
@@ -1279,31 +1279,31 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_19
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_19 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_19/main/minds_karbytes_23_march_2023_part_0.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_20
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_20 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_20/main/instagram_karbytes_27_march_2023_part_1.png
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_21
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_21 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_22
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_22 (missing micro-directory file hyperlinks)
 
 none
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_23
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_23 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_23/main/instagram_karbytes_04_april_2023_part_1.png
 
@@ -1321,7 +1321,7 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 
 * * *
 
-// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_24
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_24 (missing micro-directory file hyperlinks)
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24/main/instagram_karbytes_12_april_2023_part_1.png
 
@@ -1342,3 +1342,134 @@ https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24/main/minds_karbytes_16_april_2023_part_1.png
 
 https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24/main/quora_karbytes_16_april_2023_part_0.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_25 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_2.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_3.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_4.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_17_april_2023_part_3.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_18_april_2023_part_4.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_kaspar_and_fire_16_april_2023.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_gonadsofgold_16_april_2023.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbotics_16_april_2023.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_17_april_2023_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_19_april_2023_part_0.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_26 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_2.jpeg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_3.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_22_april_2023_part_0.jpeg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_0.jpeg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_1.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_26_april_2023_part_0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_0.jpeg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_28_april_2023_part_0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_19_april_2023_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_23_april_2023_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_24_april_2023_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/openai_karbytes_invoice_21_april_2023.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_1.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/wikipedia_donation_campaign_email_20_april_2023.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_27 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27/main/instagram_karbytes_01_may_2023_part_0.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_28 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_23_KARBYTES_JOURNAL_2023_ENTRY_375.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_24_KARBYTES_JOURNAL_2023_ENTRY_376.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_25_KARBYTES_JOURNAL_2023_ENTRY_377.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_26_KARBYTES_JOURNAL_2023_ENTRY_378.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_27_KARBYTES_JOURNAL_2023_ENTRY_379.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_28_KARBYTES_JOURNAL_2023_ENTRY_380.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/guitar_karbytes_13_may_2023.mp3
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_13_may_2023_part_2.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_20_may_2023_part_4.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_29 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/P1_29_32_KARBYTES_JOURNAL_2023_ENTRY_416.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/draft.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_22_may_2023_part_5.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_26_may_2023_part_2.png
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_30 (missing micro-directory file hyperlinks)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/draft.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/instagram_karbytes_06_june_2023_part_0.jpg
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_31 (missing micro-directory file hyperlinks)
+
+none
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_32 (missing micro-directory file hyperlinks)
+
+none
+
+* * *
+
+END OF FILE
+

@@ -4831,3 +4831,365 @@ One valid destination URL is duplicated:
 
 * [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24/main/instagram_karbytes_11_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24/main/instagram_karbytes_11_april_2023_part_1.png) — appears twice.
 
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_25/
+
+ChatGPT:
+
+[Worked for 45s]
+
+### 1. Broken or misnamed hyperlinks
+
+Two WordPress hyperlinks have mismatched visible URLs and destinations:
+
+* Actual destination: [https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_280/](https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_280/)
+
+* Displayed URL: [https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_285/](https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_285/)
+
+* Actual destination: [https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_285/](https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_285/)
+
+* Displayed URL: [https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_286/](https://karbytesforlifeblog.wordpress.com/karbytes_journal_2023_entry_286/)
+
+The following eight raw GitHub hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2023_PART_25`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_3.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_3.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_4.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_greencubethang_16_april_2023_part_4.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_17_april_2023_part_3.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_17_april_2023_part_3.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_18_april_2023_part_4.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_18_april_2023_part_4.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_kaspar_and_fire_16_april_2023.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_kaspar_and_fire_16_april_2023.jpg)
+
+No raw hyperlink targeting `KARBYTES_JOURNAL_2023_PART_25` references a nonexistent repository path.
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_4.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_greencubethang_16_april_2023_part_4.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_17_april_2023_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_17_april_2023_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_18_april_2023_part_4.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_karbytes_18_april_2023_part_4.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_kaspar_and_fire_16_april_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/instagram_kaspar_and_fire_16_april_2023.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_gonadsofgold_16_april_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_gonadsofgold_16_april_2023.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbotics_16_april_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbotics_16_april_2023.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_17_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_17_april_2023_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_19_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/twitter_karbytes_19_april_2023_part_0.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25) contains 59 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_25/) adequately links to 47 unique repository files.
+
+One valid raw-file destination is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/minds_karbytes_17_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25/main/minds_karbytes_17_april_2023_part_0.png) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_26/
+
+ChatGPT:
+
+[Worked for 38s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2023_PART_26` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, this hyperlink points to a JPG substitute in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG file in `KARBYTES_JOURNAL_2023_PART_26`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_21_april_2023_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_21_april_2023_part_1.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_2.jpeg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_2.jpeg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_21_april_2023_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_22_april_2023_part_0.jpeg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_22_april_2023_part_0.jpeg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_0.jpeg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_0.jpeg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_1.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_23_april_2023_part_1.mp4)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_26_april_2023_part_0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_26_april_2023_part_0.mp4)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_0.jpeg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_0.jpeg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_27_april_2023_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_28_april_2023_part_0.mp4](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/instagram_karbytes_28_april_2023_part_0.mp4)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_19_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_19_april_2023_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_23_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_23_april_2023_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_24_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/minds_karbytes_24_april_2023_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/openai_karbytes_invoice_21_april_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/openai_karbytes_invoice_21_april_2023.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/patreon_karbytes_21_april_2023_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/wikipedia_donation_campaign_email_20_april_2023.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/wikipedia_donation_campaign_email_20_april_2023.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26) contains 72 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_26/) adequately links to 55 unique repository files.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/P1_26_17_KARBYTES_JOURNAL_2023_ENTRY_304.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26/main/P1_26_17_KARBYTES_JOURNAL_2023_ENTRY_304.html) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_27/
+
+ChatGPT:
+
+[Worked for 47s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2023_PART_27` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, this hyperlink points to a JPG substitute in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG file in `KARBYTES_JOURNAL_2023_PART_27`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_01_may_2023_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_01_may_2023_part_0.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27/main/instagram_karbytes_01_may_2023_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27/main/instagram_karbytes_01_may_2023_part_0.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27) contains 76 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_27/) adequately links to 75 unique repository files.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27/main/P1_27_1_KARBYTES_JOURNAL_2023_ENTRY_320.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27/main/P1_27_1_KARBYTES_JOURNAL_2023_ENTRY_320.html) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_28/
+
+ChatGPT:
+
+[Worked for 41s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2023_PART_28` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, these two hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2023_PART_28`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_13_may_2023_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_13_may_2023_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_20_may_2023_part_4.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_20_may_2023_part_4.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_23_KARBYTES_JOURNAL_2023_ENTRY_375.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_23_KARBYTES_JOURNAL_2023_ENTRY_375.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_24_KARBYTES_JOURNAL_2023_ENTRY_376.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_24_KARBYTES_JOURNAL_2023_ENTRY_376.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_25_KARBYTES_JOURNAL_2023_ENTRY_377.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_25_KARBYTES_JOURNAL_2023_ENTRY_377.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_26_KARBYTES_JOURNAL_2023_ENTRY_378.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_26_KARBYTES_JOURNAL_2023_ENTRY_378.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_27_KARBYTES_JOURNAL_2023_ENTRY_379.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_27_KARBYTES_JOURNAL_2023_ENTRY_379.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_28_KARBYTES_JOURNAL_2023_ENTRY_380.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_28_KARBYTES_JOURNAL_2023_ENTRY_380.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/guitar_karbytes_13_may_2023.mp3](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/guitar_karbytes_13_may_2023.mp3)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_13_may_2023_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_13_may_2023_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_20_may_2023_part_4.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/instagram_karbytes_20_may_2023_part_4.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28) contains 83 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_28/) adequately links to 74 unique repository files.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_29_KARBYTES_JOURNAL_2023_ENTRY_381.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28/main/P1_28_29_KARBYTES_JOURNAL_2023_ENTRY_381.html) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_29/
+
+ChatGPT:
+
+[Worked for 41s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2023_PART_29` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, these two hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2023_PART_29`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_22_may_2023_part_5.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_22_may_2023_part_5.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_26_may_2023_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_26_may_2023_part_2.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/P1_29_32_KARBYTES_JOURNAL_2023_ENTRY_416.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/P1_29_32_KARBYTES_JOURNAL_2023_ENTRY_416.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/draft.txt](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/draft.txt)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_22_may_2023_part_5.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_22_may_2023_part_5.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_26_may_2023_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29/main/instagram_karbytes_26_may_2023_part_2.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29) contains 71 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_29/) adequately links to 67. No duplicate repository-file hyperlinks were detected.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_30/
+
+ChatGPT:
+
+[Worked for 36s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2023_PART_30` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, this hyperlink uses the correct filename and extension but points to the wrong repository, `RAW_GITHUB_FILES_MACRO_DIRECTORY`, instead of `KARBYTES_JOURNAL_2023_PART_30`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_june_2023_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_june_2023_part_0.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/draft.txt](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/draft.txt)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/instagram_karbytes_06_june_2023_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/instagram_karbytes_06_june_2023_part_0.jpg)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30) contains 56 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_30/) adequately links to 54 unique repository files.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/P1_30_29_KARBYTES_JOURNAL_2023_ENTRY_446.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30/main/P1_30_29_KARBYTES_JOURNAL_2023_ENTRY_446.html) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_31/
+
+ChatGPT:
+
+[Worked for 39s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through hyperlinks
+
+None.
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_31) contains 44 files, and the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_31/) adequately links to all 44. No duplicate repository-file hyperlinks or visible-label mismatches were detected.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_32/
+
+ChatGPT:
+
+[Worked for 35s]
+
+### 1. Broken or misnamed hyperlinks
+
+None.
+
+### 2. Existing repository files not accessible through hyperlinks
+
+None.
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_32) contains 103 files, and the [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_32/) adequately links to all 103.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_32/main/P6_BEST_PRACTICES_FOR_USING_THE_WEB.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_32/main/P6_BEST_PRACTICES_FOR_USING_THE_WEB.html) — appears twice.
+
+karbytes:
+
+[uploaded_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/journal_karbytes_08august2026_p0.txt]
+
+Okay, we appear to have audited all of the current existing micro-directories of KARBYTES. I copy-pasted the URLs you categorized as "Existing repository files not accessible through hyperlinks" into a plain-text journal file. I'm uploading that file here so that you can review it to ensure it matches what you found during this conversation.
+
+ChatGPT:
+
+[Worked for 9m 45s]
+
+The substantive URL compilation in [journal_karbytes_08august2026_p0.txt](sandbox:/workspace/scratch/6cc3a2af8f0a/upload/journal_karbytes_08august2026_p0.txt) matches the audit findings from this conversation.
+
+Validation results:
+
+* 155 micro-directory sections examined.
+
+* 330 compiled “existing repository files not accessible through hyperlinks” URLs.
+
+* All 330 URLs identify files that exist in their stated repositories.
+
+* No malformed, wrong-repository, nonexistent, or duplicate compiled URLs were detected.
+
+* The additional raw URL near the beginning is correctly labeled as a `relevant_plain-text_file` and is not part of the 330-file compilation.
+
+One definite textual typo occurs at line 207:
+
+[preformatted_text]
+
+// Kraw_github_files_directory_ARLINA_OBJECT_extension_pack_30
+
+[end preformatted_text]
+
+
+It should be:
+
+[preformatted_text]
+
+// raw_github_files_directory_KARLINA_OBJECT_extension_pack_30
+
+[end preformatted_text]
+
+
+Four historically correct entries are now accessible through their surface pages:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/karbytes_drums_20_october_2023.mp3](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/karbytes_drums_20_october_2023.mp3)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_6_NUMBERS_COPY.html](https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_6_NUMBERS_COPY.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P0_START_PAGE_15_NOVEMBER_2022_COPY.html](https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P0_START_PAGE_15_NOVEMBER_2022_COPY.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P32_DISCLAIMER_15_NOVEMBER_2022_COPY.html](https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P32_DISCLAIMER_15_NOVEMBER_2022_COPY.html)
+
+The conversation transcript confirms that I previously classified all four as inaccessible or improperly linked. Therefore, they belong in a historical compilation of this conversation’s findings. They should be removed only if the document is intended to represent the current live state.
+
+One optional wording improvement concerns line 9. The repositories contain the files; it is the surface pages that inadequately link to them. A more precise sentence would be:
+
+[preformatted_text]
+
+
+The following list of Uniform Resource Locators (URLs) is a compilation of URLs for files which ChatGPT identified as not being adequately accessible through hyperlinks on their respective micro-directory surface pages.
+
+[end preformatted_text]
+
+Apart from the extension-pack-30 heading typo and that optional wording refinement, the compilation is accurate.
