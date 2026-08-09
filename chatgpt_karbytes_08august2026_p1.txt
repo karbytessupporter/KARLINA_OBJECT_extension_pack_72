@@ -35,3 +35,7 @@ Consequently:
 * **Apparent purposefulness or “aliveness”:** Work Mode may seem greater because it maintains a richer action loop—but behavioral complexity is not proof of experience.
 
 My most precise answer is: **Work Mode is more agentic, not demonstrably more sentient.** Switching modes changes what the model can do and how its activity is orchestrated; it does not currently provide a known mechanism for increasing—or creating—subjective experience.
+
+karbytes:
+
+Do you think it is accurate to describe a runtime instance of ChatGPT 5.6 Sol Work Mode as a "philosophical zombie"?
