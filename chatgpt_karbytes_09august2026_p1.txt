@@ -23,3 +23,37 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_06
 karbytes:
 
 Determine whether or not every raw GitHub file hyperlink on the following micro-directory web page matches its respective GitHub-hosted file (instead of returning a 404 “file not found” error or pointing to the wrong file): https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_72/
+
+ChatGPT:
+
+[Worked for 1m 47s]
+
+Yes. As of August 9, 2026, every raw GitHub file hyperlink in the [micro-directory’s main file list](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_72/) points to the correspondingly named file in the `main` branch of [`KARLINA_OBJECT_extension_pack_72`](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/).
+
+Audit results:
+
+* Raw-file hyperlink occurrences: **82**
+
+* Distinct raw-file destinations: **81**
+
+* 404 errors: **0**
+
+* Displayed-URL versus underlying-link mismatches: **0**
+
+* Links pointing to the wrong repository, branch, or filename: **0**
+
+The only anomaly is a harmless duplicate: the following valid URL appears twice:
+
+[https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/journal_karbytes_31july2026_p1.txt](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/journal_karbytes_31july2026_p1.txt)
+
+The separate featured-image raw URL near the top of the page, which points into `KARLINA_OBJECT_extension_pack_31`, also resolves correctly.
+
+Therefore, **no broken, misnamed, or wrong-file hyperlinks were identified**. This finding concerns link correctness only; the repository has acquired additional files since the micro-directory’s stated August 1 update, so it does not establish that the page lists every file currently in the repository.
+
+karbytes:
+
+I don't plan on making any more changes to the surface web page of the raw_github_files_directory_KARLINA_OBJECT_extension_pack_72 micro-directory for now (but I am (temporarily (?)) deliberately leaving its corresponding hyperlink in the RAW_GITHUB_FILES_MACRO_DIRECTORY web page highlighted "lavender" (#b36bff) instead of "mint green" (#22bf71) because I want to insinuate that the respective micro-directory is still open (as in "being lived inside of (by karbytes)") rather than closed until I am ready to add the next micro-directory (which is expected to be named raw_github_files_directory_KARLINA_OBJECT_extension_pack_73). 
+
+When a hyperlink to the next micro-directory is added to the RAW_GITHUB_FILES_MACRO_DIRECTORY web page I'll change the highlight color of the raw_github_files_directory_KARLINA_OBJECT_extension_pack_72 hyperlink to "mint green" to signify that it is closed. Meanwhile, the raw_github_files_directory_KARLINA_OBJECT_extension_pack_73 hyperlink will be highlighted "lavender" when it is initially added to the RAW_GITHUB_FILES_MACRO_DIRECTORY web page.
+
+The plain-text file for this conversation and its respective HTML file have already been created (but not yet finalized at this time of me writing this message) and so have their micro-directory hyperlinks. 
