@@ -10,6 +10,8 @@ The following list of Uniform Resource Locators (URLs) is a compilation of URLs 
 
 relevant_plain-text_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/chatgpt_karbytes_07august2026_p0.txt
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_recovered_missing_microdirectory_links/
+
 * * *
 
 // raw_github_files_directory_KARLINA_OBJECT_extension_pack_0 (missing micro-directory file hyperlinks)
@@ -724,6 +726,25 @@ none
 // raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2
 
 none
+
+* * *
+
+// raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3
+
+none
+
+* * *
+
+// raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_0
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0/main/P5_0_5_KARBYTES_JOURNAL_2022_ENTRY_5.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0/main/minds_karbytes_07_august_2022_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0/main/minds_karbytes_11_august_2022_part_0.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0/main/minds_karbytes_13_august_2022_part_0.png
+
 
 
 
