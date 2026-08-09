@@ -3600,3 +3600,419 @@ The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PAR
 One correct hyperlink is duplicated:
 
 * [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_13/main/P5_13_1_KARBYTES_JOURNAL_2022_ENTRY_183.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_13/main/P5_13_1_KARBYTES_JOURNAL_2022_ENTRY_183.html) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14/
+
+ChatGPT:
+
+[Worked for 1m 17s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2022_PART_14` references a nonexistent repository path. However, these three hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_14`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_03_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_03_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_04_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_04_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_october_2022_part_0.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_03_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_03_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_4.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_04_october_2022_part_4.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_05_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/minds_karbytes_05_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/twitter_karbytes_04_october_2022_part_4.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14/main/twitter_karbytes_04_october_2022_part_4.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14) contains 37 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14/) adequately links to 29 of them. No duplicate repository-file hyperlinks were detected.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15/
+
+ChatGPT:
+
+[Worked for 35s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2022_PART_15` references a nonexistent repository path. However, these four hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of their corresponding PNG files:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_05_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_05_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_october_2022_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_october_2022_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_october_2022_part_3.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_october_2022_part_3.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/instagram_karbytes_05_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/instagram_karbytes_05_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_05_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_05_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_06_october_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_06_october_2022_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_06_october_2022_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/minds_karbytes_06_october_2022_part_3.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15) contains 39 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15/) adequately links to 35 unique repository files.
+
+Two correct repository-file hyperlinks are duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/skeletal_thistle_flowers_sunset_castro_valley_california_06_october_2022.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/skeletal_thistle_flowers_sunset_castro_valley_california_06_october_2022.jpg) — appears twice.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/society_social_conformity_punishment.jpg](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15/main/society_social_conformity_punishment.jpg) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16/
+
+ChatGPT:
+
+[Worked for 50s]
+
+### 1. Broken or misnamed hyperlinks
+
+One hyperlink has mismatched visible text and destination:
+
+* Actual destination: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_19_KARBYTES_JOURNAL_2022_ENTRY_231.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_19_KARBYTES_JOURNAL_2022_ENTRY_231.html)
+
+* Displayed URL: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html)
+
+The destination exists, but the mismatch prevents `P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html` from being accessible through that hyperlink.
+
+These eight hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_16`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_14_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_14_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_16_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_16_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_07_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_07_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_october_2022_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_october_2022_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_16_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_19_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_19_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_20_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_20_october_2022_part_0.jpg)
+
+No hyperlink targeting the `KARBYTES_JOURNAL_2022_PART_16` repository references a nonexistent file path.
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_1_KARBYTES_JOURNAL_2022_ENTRY_213.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_14_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_14_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_16_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_16_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_20_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/instagram_karbytes_20_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_07_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_07_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_13_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_13_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_13_october_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_13_october_2022_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_16_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_16_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_19_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_19_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_20_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/minds_karbytes_20_october_2022_part_0.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16) contains 151 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16/) adequately links to 141 unique repository files.
+
+Three destination URLs are duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_19_KARBYTES_JOURNAL_2022_ENTRY_231.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_16_19_KARBYTES_JOURNAL_2022_ENTRY_231.html) — appears twice, partly because of the mislabeled hyperlink described above.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_KARBYTES_JOURNAL_2022.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/P5_KARBYTES_JOURNAL_2022.html) — appears twice.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/harm_minimization_verses_retribution_square_image.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16/main/harm_minimization_verses_retribution_square_image.png) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16B/
+
+ChatGPT:
+
+[Worked for 47s]
+
+### 1. Broken or misnamed hyperlinks
+
+One hyperlink has mismatched visible text and destination:
+
+* Actual destination: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_28_KARBYTES_JOURNAL_2022_ENTRY_302.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_28_KARBYTES_JOURNAL_2022_ENTRY_302.html)
+
+* Displayed URL: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_27_KARBYTES_JOURNAL_2022_ENTRY_301.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_27_KARBYTES_JOURNAL_2022_ENTRY_301.html)
+
+Both files are accessible elsewhere on the surface page, but this particular hyperlink is misnamed.
+
+The following 16 hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_16B`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_22_october_2022_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_22_october_2022_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_23_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_23_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_02_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_02_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_22_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_22_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_22_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_22_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_1_abridged.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_october_2022_part_1_abridged.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_28_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_28_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_28_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_28_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_30_october_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_31_october_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_31_october_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_31_october_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_31_october_2022_part_1.jpg)
+
+No hyperlink targeting the `KARBYTES_JOURNAL_2022_PART_16B` repository references a nonexistent file path.
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/instagram_karbytes_22_october_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/instagram_karbytes_22_october_2022_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/instagram_karbytes_23_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/instagram_karbytes_23_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_02_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_02_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_05_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_05_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_22_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_22_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_22_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_22_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_23_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_23_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_1_abridged.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_25_october_2022_part_1_abridged.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_28_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_28_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_28_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_28_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_30_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_30_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_30_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_30_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_31_october_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_31_october_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_31_october_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/minds_karbytes_31_october_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/tesla_production_associate_phone_interview_invitation_04_november_2022.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/tesla_production_associate_phone_interview_invitation_04_november_2022.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B) contains 150 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16B/) adequately links to 133 unique repository files.
+
+Three destination URLs are duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_28_KARBYTES_JOURNAL_2022_ENTRY_302.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/P5_16B_28_KARBYTES_JOURNAL_2022_ENTRY_302.html) — appears twice, partly because of the misnamed hyperlink.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/cvs_pharmacy_prescriptions_numbers_and_prices_05_november_2022.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/cvs_pharmacy_prescriptions_numbers_and_prices_05_november_2022.png) — appears twice.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/plannedparenthood_gender_affirming_hormones_initial_appointments_info_03_november_2022.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B/main/plannedparenthood_gender_affirming_hormones_initial_appointments_info_03_november_2022.png) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16C/
+
+ChatGPT:
+
+[Worked for 42s]
+
+### 1. Broken or misnamed hyperlinks
+
+This hyperlink targets a nonexistent repository path and should return a 404:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_25_KARBYTES_JOURNAL_2022_ENTRY_366.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_25_KARBYTES_JOURNAL_2022_ENTRY_366.html)
+
+The repository contains `P5_16C_26_KARBYTES_JOURNAL_2022_ENTRY_366.html`, rather than `P5_16C_25_KARBYTES_JOURNAL_2022_ENTRY_366.html`.
+
+One hyperlink has mismatched visible text and destination:
+
+* Actual destination: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_19_KARBYTES_JOURNAL_2022_ENTRY_359.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_19_KARBYTES_JOURNAL_2022_ENTRY_359.html)
+
+* Displayed URL: [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html)
+
+This mismatch prevents `P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html` from being accessible through that hyperlink.
+
+The following 13 hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_16C`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/facebook_karbytes_02_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/facebook_karbytes_02_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_november_2022_part_3.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_november_2022_part_3.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_19_november_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_19_november_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_02_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_02_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_06_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_07_november_2022_part_3.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_07_november_2022_part_3.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_november_2022_part_2.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_november_2022_part_2.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_18_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_18_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_19_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_19_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_november_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_november_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_23_november_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_november_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_25_november_2022_part_0.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_1_KARBYTES_JOURNAL_2022_ENTRY_341.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_26_KARBYTES_JOURNAL_2022_ENTRY_366.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_26_KARBYTES_JOURNAL_2022_ENTRY_366.html)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/facebook_karbytes_02_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/facebook_karbytes_02_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_06_november_2022_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_06_november_2022_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_19_november_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_19_november_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_02_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_02_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_06_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_06_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_07_november_2022_part_3.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_07_november_2022_part_3.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_13_november_2022_part_2.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_13_november_2022_part_2.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_15_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_15_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_18_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_18_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_18_november_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_18_november_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_19_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_19_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_23_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_23_november_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_23_november_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_23_november_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_25_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/minds_karbytes_25_november_2022_part_0.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C) contains 151 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16C/) adequately links to 135 unique repository files.
+
+Two valid destination URLs are duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_19_KARBYTES_JOURNAL_2022_ENTRY_359.html](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/P5_16C_19_KARBYTES_JOURNAL_2022_ENTRY_359.html) — appears twice, partly because of the mislabeled hyperlink.
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_27_november_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C/main/instagram_karbytes_27_november_2022_part_0.png) — appears twice.
+
+karbytes:
+
+Alright! Now, for the following micro-directory, first display a list of full URLs of broken or misnamed hyperlinks in that respective micro-directory web page. Then display a list of full URLs of existing files (in that micro-directory's GitHub repository) which are not accessible by clicking on hyperlinks in the micro-directory web page. The micro-directory is located at the following URL: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16D/
+
+ChatGPT:
+
+[Worked for 36s]
+
+### 1. Broken or misnamed hyperlinks
+
+No hyperlink targeting `KARBYTES_JOURNAL_2022_PART_16D` references a nonexistent repository path, and no visible URL is paired with a mismatched destination.
+
+However, the following 13 hyperlinks point to JPG substitutes in `RAW_GITHUB_FILES_MACRO_DIRECTORY` instead of the corresponding PNG files in `KARBYTES_JOURNAL_2022_PART_16D`:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/facebook_karbytes_15_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/facebook_karbytes_15_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_06_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_13_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_13_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_15_december_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/instagram_karbytes_15_december_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_03_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_03_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_05_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_08_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_08_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_08_december_2022_part_1.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_08_december_2022_part_1.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_11_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_11_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_12_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_13_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_14_december_2022_part_0.jpg)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_december_2022_part_0.jpg](https://raw.githubusercontent.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY/main/minds_karbytes_15_december_2022_part_0.jpg)
+
+### 2. Existing repository files not accessible through hyperlinks
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/facebook_karbytes_15_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/facebook_karbytes_15_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/github_karbytes_profile_02_december_2022.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/github_karbytes_profile_02_december_2022.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_06_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_06_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_13_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_13_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_15_december_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/instagram_karbytes_15_december_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_03_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_03_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_05_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_05_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_08_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_08_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_08_december_2022_part_1.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_08_december_2022_part_1.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_11_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_11_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_12_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_12_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_13_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_13_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_14_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_14_december_2022_part_0.png)
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_15_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/minds_karbytes_15_december_2022_part_0.png)
+
+The [repository](https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D) contains 117 files. The [surface page](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16D/) adequately links to 103 unique repository files.
+
+One valid destination URL is duplicated:
+
+* [https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/reddit_karbytes_07_december_2022_part_0.png](https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D/main/reddit_karbytes_07_december_2022_part_0.png) — appears twice.
